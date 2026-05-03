@@ -79,6 +79,8 @@ logs/
 # Data — raw scraped content stays local; processed aggregates may be committed
 data/raw/
 data/scratch/
+data/spike/*.json
+data/spike/spike_run_*.log
 *.parquet
 *.feather
 
