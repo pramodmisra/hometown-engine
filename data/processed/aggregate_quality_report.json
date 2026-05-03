@@ -1,0 +1,37 @@
+{
+  "raw_records": 8261,
+  "with_any_place_string": 6418,
+  "resolved_to_us": 5567,
+  "with_state": 5567,
+  "deduplicated_us_records": 5567,
+  "aggregate_rows": 1398,
+  "olympic_aggregate_rows": 1114,
+  "paralympic_aggregate_rows": 284,
+  "states_represented": 54,
+  "sports_olympic": 63,
+  "sports_paralympic": 29,
+  "top_10_olympic_states": {
+    "California": 806,
+    "New York": 446,
+    "Pennsylvania": 272,
+    "Illinois": 265,
+    "Massachusetts": 264,
+    "Minnesota": 230,
+    "New Jersey": 227,
+    "Washington": 177,
+    "Texas": 168,
+    "Ohio": 156
+  },
+  "top_10_paralympic_states": {
+    "California": 58,
+    "Illinois": 30,
+    "Texas": 29,
+    "Michigan": 28,
+    "New York": 28,
+    "Pennsylvania": 28,
+    "Minnesota": 23,
+    "Ohio": 21,
+    "Wisconsin": 19,
+    "Colorado": 18
+  }
+}

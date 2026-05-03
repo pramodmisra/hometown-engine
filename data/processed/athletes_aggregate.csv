@@ -1,0 +1,1399 @@
+state,state_code,sport,is_paralympic,athlete_count,data_source
+Alabama,AL,Athletics,False,12,wikipedia_categories_v1
+Alabama,AL,Baseball,False,3,wikipedia_categories_v1
+Alabama,AL,Boxing,False,3,wikipedia_categories_v1
+Alabama,AL,Fencing,False,3,wikipedia_categories_v1
+Alabama,AL,Cycling,False,2,wikipedia_categories_v1
+Alabama,AL,Figure Skating,False,2,wikipedia_categories_v1
+Alabama,AL,Shooting,False,2,wikipedia_categories_v1
+Alabama,AL,Swimming,False,2,wikipedia_categories_v1
+Alabama,AL,Wheelchair Basketball,True,2,wikipedia_categories_v1
+Alabama,AL,Bobsleigh,False,1,wikipedia_categories_v1
+Alabama,AL,Equestrian,False,1,wikipedia_categories_v1
+Alabama,AL,Handball,False,1,wikipedia_categories_v1
+Alabama,AL,Rowing,False,1,wikipedia_categories_v1
+Alabama,AL,Soccer,False,1,wikipedia_categories_v1
+Alabama,AL,Softball,False,1,wikipedia_categories_v1
+Alabama,AL,Wrestling,False,1,wikipedia_categories_v1
+Alaska,AK,Cross-Country Skiing,False,14,wikipedia_categories_v1
+Alaska,AK,Rowing,False,4,wikipedia_categories_v1
+Alaska,AK,Biathlon,False,3,wikipedia_categories_v1
+Alaska,AK,Curling,False,3,wikipedia_categories_v1
+Alaska,AK,Ice Hockey,False,2,wikipedia_categories_v1
+Alaska,AK,Para Alpine Skiing,True,2,wikipedia_categories_v1
+Alaska,AK,Snowboarding,False,2,wikipedia_categories_v1
+Alaska,AK,Handball,False,1,wikipedia_categories_v1
+Alaska,AK,Para Athletics,True,1,wikipedia_categories_v1
+Alaska,AK,Para Cycling,True,1,wikipedia_categories_v1
+Alaska,AK,Para Football,True,1,wikipedia_categories_v1
+Alaska,AK,Shooting,False,1,wikipedia_categories_v1
+Alaska,AK,Wheelchair racer,False,1,wikipedia_categories_v1
+Alaska,AK,Wrestling,False,1,wikipedia_categories_v1
+American Samoa,AS,Athletics,False,1,wikipedia_categories_v1
+Arizona,AZ,Athletics,False,8,wikipedia_categories_v1
+Arizona,AZ,Cycling,False,3,wikipedia_categories_v1
+Arizona,AZ,Gymnastics,False,2,wikipedia_categories_v1
+Arizona,AZ,Ice Hockey,False,2,wikipedia_categories_v1
+Arizona,AZ,Rowing,False,2,wikipedia_categories_v1
+Arizona,AZ,Shooting,False,2,wikipedia_categories_v1
+Arizona,AZ,Sitting Volleyball,True,2,wikipedia_categories_v1
+Arizona,AZ,Skateboarding,False,2,wikipedia_categories_v1
+Arizona,AZ,Swimming,False,2,wikipedia_categories_v1
+Arizona,AZ,Archery,False,1,wikipedia_categories_v1
+Arizona,AZ,Boxing,False,1,wikipedia_categories_v1
+Arizona,AZ,Diving,False,1,wikipedia_categories_v1
+Arizona,AZ,Fencing,False,1,wikipedia_categories_v1
+Arizona,AZ,Modern Pentathlon,False,1,wikipedia_categories_v1
+Arizona,AZ,Para Archery,True,1,wikipedia_categories_v1
+Arizona,AZ,Para Athletics,True,1,wikipedia_categories_v1
+Arizona,AZ,Para Cycling,True,1,wikipedia_categories_v1
+Arizona,AZ,Para Swimming,True,1,wikipedia_categories_v1
+Arizona,AZ,Para Triathlon,True,1,wikipedia_categories_v1
+Arizona,AZ,Rugby Sevens,False,1,wikipedia_categories_v1
+Arizona,AZ,Snowboarding,False,1,wikipedia_categories_v1
+Arizona,AZ,Soccer,False,1,wikipedia_categories_v1
+Arizona,AZ,Softball,False,1,wikipedia_categories_v1
+Arizona,AZ,Speed Skating,False,1,wikipedia_categories_v1
+Arizona,AZ,Tennis,False,1,wikipedia_categories_v1
+Arizona,AZ,Water Polo,False,1,wikipedia_categories_v1
+Arizona,AZ,Weightlifting,False,1,wikipedia_categories_v1
+Arizona,AZ,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Arizona,AZ,Wrestling,False,1,wikipedia_categories_v1
+Arkansas,AR,Athletics,False,5,wikipedia_categories_v1
+Arkansas,AR,Rowing,False,3,wikipedia_categories_v1
+Arkansas,AR,Modern Pentathlon,False,2,wikipedia_categories_v1
+Arkansas,AR,Para Swimming,True,2,wikipedia_categories_v1
+Arkansas,AR,Shooting,False,2,wikipedia_categories_v1
+Arkansas,AR,Boxing,False,1,wikipedia_categories_v1
+Arkansas,AR,Cycling,False,1,wikipedia_categories_v1
+Arkansas,AR,Para Alpine Skiing,True,1,wikipedia_categories_v1
+California,CA,Athletics,False,133,wikipedia_categories_v1
+California,CA,Swimming,False,66,wikipedia_categories_v1
+California,CA,Rowing,False,54,wikipedia_categories_v1
+California,CA,Water Polo,False,54,wikipedia_categories_v1
+California,CA,Cycling,False,52,wikipedia_categories_v1
+California,CA,Sailing,False,32,wikipedia_categories_v1
+California,CA,Softball,False,31,wikipedia_categories_v1
+California,CA,Soccer,False,30,wikipedia_categories_v1
+California,CA,Figure Skating,False,27,wikipedia_categories_v1
+California,CA,Volleyball,False,23,wikipedia_categories_v1
+California,CA,Beach Volleyball,False,22,wikipedia_categories_v1
+California,CA,Alpine Skiing,False,20,wikipedia_categories_v1
+California,CA,Boxing,False,20,wikipedia_categories_v1
+California,CA,Wrestling,False,20,wikipedia_categories_v1
+California,CA,Shooting,False,18,wikipedia_categories_v1
+California,CA,Fencing,False,17,wikipedia_categories_v1
+California,CA,Gymnastics,False,16,wikipedia_categories_v1
+California,CA,Para Athletics,True,13,wikipedia_categories_v1
+California,CA,Rugby Sevens,False,11,wikipedia_categories_v1
+California,CA,Baseball,False,10,wikipedia_categories_v1
+California,CA,Snowboarding,False,10,wikipedia_categories_v1
+California,CA,Badminton,False,9,wikipedia_categories_v1
+California,CA,Diving,False,9,wikipedia_categories_v1
+California,CA,Para Swimming,True,9,wikipedia_categories_v1
+California,CA,Tennis,False,9,wikipedia_categories_v1
+California,CA,Artistic Swimming,False,8,wikipedia_categories_v1
+California,CA,Table Tennis,False,8,wikipedia_categories_v1
+California,CA,Bobsleigh,False,7,wikipedia_categories_v1
+California,CA,Freestyle Skiing,False,7,wikipedia_categories_v1
+California,CA,Handball,False,7,wikipedia_categories_v1
+California,CA,Canoe,False,6,wikipedia_categories_v1
+California,CA,Cross-Country Skiing,False,6,wikipedia_categories_v1
+California,CA,Judo,False,6,wikipedia_categories_v1
+California,CA,Para Cycling,True,6,wikipedia_categories_v1
+California,CA,Weightlifting,False,6,wikipedia_categories_v1
+California,CA,Equestrian,False,5,wikipedia_categories_v1
+California,CA,Speed Skating,False,5,wikipedia_categories_v1
+California,CA,Wheelchair Basketball,True,5,wikipedia_categories_v1
+California,CA,Archery,False,4,wikipedia_categories_v1
+California,CA,Field Hockey,False,4,wikipedia_categories_v1
+California,CA,Golf,False,4,wikipedia_categories_v1
+California,CA,Luge,False,4,wikipedia_categories_v1
+California,CA,Skateboarding,False,4,wikipedia_categories_v1
+California,CA,Ice Hockey,False,3,wikipedia_categories_v1
+California,CA,Para Alpine Skiing,True,3,wikipedia_categories_v1
+California,CA,Sitting Volleyball,True,3,wikipedia_categories_v1
+California,CA,Surfing,False,3,wikipedia_categories_v1
+California,CA,Wheelchair Rugby,True,3,wikipedia_categories_v1
+California,CA,Wheelchair Tennis,True,3,wikipedia_categories_v1
+California,CA,Biathlon,False,2,wikipedia_categories_v1
+California,CA,Para Archery,True,2,wikipedia_categories_v1
+California,CA,Para Football,True,2,wikipedia_categories_v1
+California,CA,Para Ice Hockey,True,2,wikipedia_categories_v1
+California,CA,Para Snowboarding,True,2,wikipedia_categories_v1
+California,CA,Short Track Speed Skating,False,2,wikipedia_categories_v1
+California,CA,Skeleton,False,2,wikipedia_categories_v1
+California,CA,Taekwondo,False,2,wikipedia_categories_v1
+California,CA,Triathlon,False,2,wikipedia_categories_v1
+California,CA,Breaking,False,1,wikipedia_categories_v1
+California,CA,Modern Pentathlon,False,1,wikipedia_categories_v1
+California,CA,Para Biathlon,True,1,wikipedia_categories_v1
+California,CA,Para Cross-Country Skiing,True,1,wikipedia_categories_v1
+California,CA,Para Judo,True,1,wikipedia_categories_v1
+California,CA,Para Rowing,True,1,wikipedia_categories_v1
+California,CA,Para Triathlon,True,1,wikipedia_categories_v1
+California,CA,Polo,False,1,wikipedia_categories_v1
+California,CA,Ski Jumping,False,1,wikipedia_categories_v1
+California,CA,Sport Climbing,False,1,wikipedia_categories_v1
+California,CA,Tug of War,False,1,wikipedia_categories_v1
+Colorado,CO,Cycling,False,16,wikipedia_categories_v1
+Colorado,CO,Freestyle Skiing,False,15,wikipedia_categories_v1
+Colorado,CO,Alpine Skiing,False,14,wikipedia_categories_v1
+Colorado,CO,Cross-Country Skiing,False,14,wikipedia_categories_v1
+Colorado,CO,Athletics,False,12,wikipedia_categories_v1
+Colorado,CO,Nordic Combined,False,9,wikipedia_categories_v1
+Colorado,CO,Snowboarding,False,7,wikipedia_categories_v1
+Colorado,CO,Biathlon,False,5,wikipedia_categories_v1
+Colorado,CO,Ski Jumping,False,5,wikipedia_categories_v1
+Colorado,CO,Rowing,False,4,wikipedia_categories_v1
+Colorado,CO,Bobsleigh,False,3,wikipedia_categories_v1
+Colorado,CO,Figure Skating,False,3,wikipedia_categories_v1
+Colorado,CO,Ice Hockey,False,3,wikipedia_categories_v1
+Colorado,CO,Para Alpine Skiing,True,3,wikipedia_categories_v1
+Colorado,CO,Para Ice Hockey,True,3,wikipedia_categories_v1
+Colorado,CO,Para Swimming,True,3,wikipedia_categories_v1
+Colorado,CO,Shooting,False,3,wikipedia_categories_v1
+Colorado,CO,Swimming,False,3,wikipedia_categories_v1
+Colorado,CO,Wrestling,False,3,wikipedia_categories_v1
+Colorado,CO,Boxing,False,2,wikipedia_categories_v1
+Colorado,CO,Diving,False,2,wikipedia_categories_v1
+Colorado,CO,Gymnastics,False,2,wikipedia_categories_v1
+Colorado,CO,Judo,False,2,wikipedia_categories_v1
+Colorado,CO,Luge,False,2,wikipedia_categories_v1
+Colorado,CO,Para Athletics,True,2,wikipedia_categories_v1
+Colorado,CO,Sailing,False,2,wikipedia_categories_v1
+Colorado,CO,Speed Skating,False,2,wikipedia_categories_v1
+Colorado,CO,Sport Climbing,False,2,wikipedia_categories_v1
+Colorado,CO,Wheelchair Basketball,True,2,wikipedia_categories_v1
+Colorado,CO,Wheelchair Rugby,True,2,wikipedia_categories_v1
+Colorado,CO,Archery,False,1,wikipedia_categories_v1
+Colorado,CO,Artistic Swimming,False,1,wikipedia_categories_v1
+Colorado,CO,Canoe,False,1,wikipedia_categories_v1
+Colorado,CO,Golf,False,1,wikipedia_categories_v1
+Colorado,CO,Modern Pentathlon,False,1,wikipedia_categories_v1
+Colorado,CO,Para Archery,True,1,wikipedia_categories_v1
+Colorado,CO,Para Judo,True,1,wikipedia_categories_v1
+Colorado,CO,Para Snowboarding,True,1,wikipedia_categories_v1
+Colorado,CO,Rugby Sevens,False,1,wikipedia_categories_v1
+Colorado,CO,Skeleton,False,1,wikipedia_categories_v1
+Colorado,CO,Soccer,False,1,wikipedia_categories_v1
+Colorado,CO,Triathlon,False,1,wikipedia_categories_v1
+Colorado,CO,Water Polo,False,1,wikipedia_categories_v1
+Connecticut,CT,Rowing,False,22,wikipedia_categories_v1
+Connecticut,CT,Athletics,False,14,wikipedia_categories_v1
+Connecticut,CT,Ice Hockey,False,7,wikipedia_categories_v1
+Connecticut,CT,Freestyle Skiing,False,6,wikipedia_categories_v1
+Connecticut,CT,Figure Skating,False,5,wikipedia_categories_v1
+Connecticut,CT,Shooting,False,4,wikipedia_categories_v1
+Connecticut,CT,Fencing,False,3,wikipedia_categories_v1
+Connecticut,CT,Luge,False,3,wikipedia_categories_v1
+Connecticut,CT,Para Swimming,True,3,wikipedia_categories_v1
+Connecticut,CT,Skeleton,False,3,wikipedia_categories_v1
+Connecticut,CT,Canoe,False,2,wikipedia_categories_v1
+Connecticut,CT,Cross-Country Skiing,False,2,wikipedia_categories_v1
+Connecticut,CT,Field Hockey,False,2,wikipedia_categories_v1
+Connecticut,CT,Sailing,False,2,wikipedia_categories_v1
+Connecticut,CT,Snowboarding,False,2,wikipedia_categories_v1
+Connecticut,CT,Water Polo,False,2,wikipedia_categories_v1
+Connecticut,CT,Alpine Skiing,False,1,wikipedia_categories_v1
+Connecticut,CT,Archery,False,1,wikipedia_categories_v1
+Connecticut,CT,Biathlon,False,1,wikipedia_categories_v1
+Connecticut,CT,Boxing,False,1,wikipedia_categories_v1
+Connecticut,CT,Equestrian,False,1,wikipedia_categories_v1
+Connecticut,CT,Gymnastics,False,1,wikipedia_categories_v1
+Connecticut,CT,Judo,False,1,wikipedia_categories_v1
+Connecticut,CT,Para Cycling,True,1,wikipedia_categories_v1
+Connecticut,CT,Para Rowing,True,1,wikipedia_categories_v1
+Connecticut,CT,Rugby Sevens,False,1,wikipedia_categories_v1
+Connecticut,CT,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Connecticut,CT,Sitting Volleyball,True,1,wikipedia_categories_v1
+Connecticut,CT,Skateboarding,False,1,wikipedia_categories_v1
+Connecticut,CT,Speed Skating,False,1,wikipedia_categories_v1
+Connecticut,CT,Swimming,False,1,wikipedia_categories_v1
+Connecticut,CT,Taekwondo,False,1,wikipedia_categories_v1
+Connecticut,CT,Tennis,False,1,wikipedia_categories_v1
+Connecticut,CT,Tug of War,False,1,wikipedia_categories_v1
+Delaware,DE,Athletics,False,3,wikipedia_categories_v1
+Delaware,DE,Field Hockey,False,2,wikipedia_categories_v1
+Delaware,DE,Sailing,False,2,wikipedia_categories_v1
+Delaware,DE,Swimming,False,2,wikipedia_categories_v1
+Delaware,DE,Artistic Swimming,False,1,wikipedia_categories_v1
+Delaware,DE,Boxing,False,1,wikipedia_categories_v1
+Delaware,DE,Figure Skating,False,1,wikipedia_categories_v1
+Delaware,DE,Luge,False,1,wikipedia_categories_v1
+Delaware,DE,Para Athletics,True,1,wikipedia_categories_v1
+Delaware,DE,Para Wrestling,True,1,wikipedia_categories_v1
+Delaware,DE,Rugby Sevens,False,1,wikipedia_categories_v1
+Delaware,DE,Soccer,False,1,wikipedia_categories_v1
+Delaware,DE,Softball,False,1,wikipedia_categories_v1
+Delaware,DE,Wrestling,False,1,wikipedia_categories_v1
+Florida,FL,Athletics,False,30,wikipedia_categories_v1
+Florida,FL,Soccer,False,8,wikipedia_categories_v1
+Florida,FL,Sailing,False,7,wikipedia_categories_v1
+Florida,FL,Baseball,False,6,wikipedia_categories_v1
+Florida,FL,Diving,False,6,wikipedia_categories_v1
+Florida,FL,Figure Skating,False,6,wikipedia_categories_v1
+Florida,FL,Gymnastics,False,6,wikipedia_categories_v1
+Florida,FL,Tennis,False,6,wikipedia_categories_v1
+Florida,FL,Bobsleigh,False,4,wikipedia_categories_v1
+Florida,FL,Boxing,False,4,wikipedia_categories_v1
+Florida,FL,Golf,False,4,wikipedia_categories_v1
+Florida,FL,Judo,False,3,wikipedia_categories_v1
+Florida,FL,Modern Pentathlon,False,3,wikipedia_categories_v1
+Florida,FL,Para Swimming,True,3,wikipedia_categories_v1
+Florida,FL,Skateboarding,False,3,wikipedia_categories_v1
+Florida,FL,Softball,False,3,wikipedia_categories_v1
+Florida,FL,Weightlifting,False,3,wikipedia_categories_v1
+Florida,FL,Beach Volleyball,False,2,wikipedia_categories_v1
+Florida,FL,Cycling,False,2,wikipedia_categories_v1
+Florida,FL,Equestrian,False,2,wikipedia_categories_v1
+Florida,FL,Ice Hockey,False,2,wikipedia_categories_v1
+Florida,FL,Para Football,True,2,wikipedia_categories_v1
+Florida,FL,Para Ice Hockey,True,2,wikipedia_categories_v1
+Florida,FL,Para Table Tennis,True,2,wikipedia_categories_v1
+Florida,FL,Swimming,False,2,wikipedia_categories_v1
+Florida,FL,Taekwondo,False,2,wikipedia_categories_v1
+Florida,FL,Volleyball,False,2,wikipedia_categories_v1
+Florida,FL,Wrestling,False,2,wikipedia_categories_v1
+Florida,FL,Alpine Skiing,False,1,wikipedia_categories_v1
+Florida,FL,Biathlon,False,1,wikipedia_categories_v1
+Florida,FL,Breaking,False,1,wikipedia_categories_v1
+Florida,FL,Canoe,False,1,wikipedia_categories_v1
+Florida,FL,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Florida,FL,Curling,False,1,wikipedia_categories_v1
+Florida,FL,Fencing,False,1,wikipedia_categories_v1
+Florida,FL,Freestyle Skiing,False,1,wikipedia_categories_v1
+Florida,FL,Handball,False,1,wikipedia_categories_v1
+Florida,FL,Para Athletics,True,1,wikipedia_categories_v1
+Florida,FL,Para Sailing,True,1,wikipedia_categories_v1
+Florida,FL,Rowing,False,1,wikipedia_categories_v1
+Florida,FL,Rugby Sevens,False,1,wikipedia_categories_v1
+Florida,FL,Shooting,False,1,wikipedia_categories_v1
+Florida,FL,Sitting Volleyball,True,1,wikipedia_categories_v1
+Florida,FL,Ski Jumping,False,1,wikipedia_categories_v1
+Florida,FL,Triathlon,False,1,wikipedia_categories_v1
+Georgia,GA,Athletics,False,22,wikipedia_categories_v1
+Georgia,GA,Swimming,False,8,wikipedia_categories_v1
+Georgia,GA,Shooting,False,5,wikipedia_categories_v1
+Georgia,GA,Weightlifting,False,4,wikipedia_categories_v1
+Georgia,GA,Para Athletics,True,3,wikipedia_categories_v1
+Georgia,GA,Para Swimming,True,3,wikipedia_categories_v1
+Georgia,GA,Rowing,False,3,wikipedia_categories_v1
+Georgia,GA,Soccer,False,3,wikipedia_categories_v1
+Georgia,GA,Baseball,False,2,wikipedia_categories_v1
+Georgia,GA,Boxing,False,2,wikipedia_categories_v1
+Georgia,GA,Equestrian,False,2,wikipedia_categories_v1
+Georgia,GA,Fencing,False,2,wikipedia_categories_v1
+Georgia,GA,Tennis,False,2,wikipedia_categories_v1
+Georgia,GA,Badminton,False,1,wikipedia_categories_v1
+Georgia,GA,Canoe,False,1,wikipedia_categories_v1
+Georgia,GA,Cycling,False,1,wikipedia_categories_v1
+Georgia,GA,Diving,False,1,wikipedia_categories_v1
+Georgia,GA,Field Hockey,False,1,wikipedia_categories_v1
+Georgia,GA,Goalball,True,1,wikipedia_categories_v1
+Georgia,GA,Gymnastics,False,1,wikipedia_categories_v1
+Georgia,GA,Para Snowboarding,True,1,wikipedia_categories_v1
+Georgia,GA,Sailing,False,1,wikipedia_categories_v1
+Georgia,GA,Sport Climbing,False,1,wikipedia_categories_v1
+Guam,GU,Luge,False,1,wikipedia_categories_v1
+Hawaii,HI,Swimming,False,8,wikipedia_categories_v1
+Hawaii,HI,Judo,False,5,wikipedia_categories_v1
+Hawaii,HI,Volleyball,False,5,wikipedia_categories_v1
+Hawaii,HI,Canoe,False,4,wikipedia_categories_v1
+Hawaii,HI,Equestrian,False,2,wikipedia_categories_v1
+Hawaii,HI,Rugby Sevens,False,2,wikipedia_categories_v1
+Hawaii,HI,Shooting,False,2,wikipedia_categories_v1
+Hawaii,HI,Weightlifting,False,2,wikipedia_categories_v1
+Hawaii,HI,Beach Volleyball,False,1,wikipedia_categories_v1
+Hawaii,HI,Boxing,False,1,wikipedia_categories_v1
+Hawaii,HI,Field Hockey,False,1,wikipedia_categories_v1
+Hawaii,HI,Karate,False,1,wikipedia_categories_v1
+Hawaii,HI,Para Canoe,True,1,wikipedia_categories_v1
+Hawaii,HI,Sailing,False,1,wikipedia_categories_v1
+Hawaii,HI,Skateboarding,False,1,wikipedia_categories_v1
+Hawaii,HI,Softball,False,1,wikipedia_categories_v1
+Hawaii,HI,Surfing,False,1,wikipedia_categories_v1
+Hawaii,HI,Water Polo,False,1,wikipedia_categories_v1
+Hawaii,HI,Wheelchair Tennis,True,1,wikipedia_categories_v1
+Idaho,ID,Alpine Skiing,False,5,wikipedia_categories_v1
+Idaho,ID,Athletics,False,5,wikipedia_categories_v1
+Idaho,ID,Shooting,False,4,wikipedia_categories_v1
+Idaho,ID,Snowboarding,False,4,wikipedia_categories_v1
+Idaho,ID,Cross-Country Skiing,False,3,wikipedia_categories_v1
+Idaho,ID,Para Athletics,True,2,wikipedia_categories_v1
+Idaho,ID,Boxing,False,1,wikipedia_categories_v1
+Idaho,ID,Freestyle Skiing,False,1,wikipedia_categories_v1
+Idaho,ID,Luge,False,1,wikipedia_categories_v1
+Idaho,ID,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Idaho,ID,Para Biathlon,True,1,wikipedia_categories_v1
+Idaho,ID,Para Cross-Country Skiing,True,1,wikipedia_categories_v1
+Idaho,ID,Para Cycling,True,1,wikipedia_categories_v1
+Idaho,ID,Para Equestrian,True,1,wikipedia_categories_v1
+Idaho,ID,Rowing,False,1,wikipedia_categories_v1
+Idaho,ID,Skeleton,False,1,wikipedia_categories_v1
+Idaho,ID,Ski Jumping,False,1,wikipedia_categories_v1
+Idaho,ID,Wheelchair Curling,True,1,wikipedia_categories_v1
+Illinois,IL,Athletics,False,54,wikipedia_categories_v1
+Illinois,IL,Swimming,False,25,wikipedia_categories_v1
+Illinois,IL,Speed Skating,False,22,wikipedia_categories_v1
+Illinois,IL,Cycling,False,17,wikipedia_categories_v1
+Illinois,IL,Rowing,False,16,wikipedia_categories_v1
+Illinois,IL,Gymnastics,False,13,wikipedia_categories_v1
+Illinois,IL,Water Polo,False,13,wikipedia_categories_v1
+Illinois,IL,Wrestling,False,10,wikipedia_categories_v1
+Illinois,IL,Shooting,False,9,wikipedia_categories_v1
+Illinois,IL,Boxing,False,7,wikipedia_categories_v1
+Illinois,IL,Tennis,False,7,wikipedia_categories_v1
+Illinois,IL,Figure Skating,False,6,wikipedia_categories_v1
+Illinois,IL,Para Ice Hockey,True,6,wikipedia_categories_v1
+Illinois,IL,Soccer,False,6,wikipedia_categories_v1
+Illinois,IL,Bobsleigh,False,5,wikipedia_categories_v1
+Illinois,IL,Judo,False,5,wikipedia_categories_v1
+Illinois,IL,Diving,False,4,wikipedia_categories_v1
+Illinois,IL,Fencing,False,4,wikipedia_categories_v1
+Illinois,IL,Handball,False,4,wikipedia_categories_v1
+Illinois,IL,Para Swimming,True,4,wikipedia_categories_v1
+Illinois,IL,Sailing,False,4,wikipedia_categories_v1
+Illinois,IL,Ski Jumping,False,4,wikipedia_categories_v1
+Illinois,IL,Wheelchair Basketball,True,4,wikipedia_categories_v1
+Illinois,IL,Ice Hockey,False,3,wikipedia_categories_v1
+Illinois,IL,Para Athletics,True,3,wikipedia_categories_v1
+Illinois,IL,Para Cycling,True,3,wikipedia_categories_v1
+Illinois,IL,Volleyball,False,3,wikipedia_categories_v1
+Illinois,IL,Archery,False,2,wikipedia_categories_v1
+Illinois,IL,Biathlon,False,2,wikipedia_categories_v1
+Illinois,IL,Curling,False,2,wikipedia_categories_v1
+Illinois,IL,Equestrian,False,2,wikipedia_categories_v1
+Illinois,IL,Luge,False,2,wikipedia_categories_v1
+Illinois,IL,Modern Pentathlon,False,2,wikipedia_categories_v1
+Illinois,IL,Sitting Volleyball,True,2,wikipedia_categories_v1
+Illinois,IL,Triathlon,False,2,wikipedia_categories_v1
+Illinois,IL,Badminton,False,1,wikipedia_categories_v1
+Illinois,IL,Baseball,False,1,wikipedia_categories_v1
+Illinois,IL,Beach Volleyball,False,1,wikipedia_categories_v1
+Illinois,IL,Canoe,False,1,wikipedia_categories_v1
+Illinois,IL,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Illinois,IL,Field Hockey,False,1,wikipedia_categories_v1
+Illinois,IL,Goalball,True,1,wikipedia_categories_v1
+Illinois,IL,Para Archery,True,1,wikipedia_categories_v1
+Illinois,IL,Para Biathlon,True,1,wikipedia_categories_v1
+Illinois,IL,Para Cross-Country Skiing,True,1,wikipedia_categories_v1
+Illinois,IL,Para Triathlon,True,1,wikipedia_categories_v1
+Illinois,IL,Ski Mountaineering,False,1,wikipedia_categories_v1
+Illinois,IL,Softball,False,1,wikipedia_categories_v1
+Illinois,IL,Tug of War,False,1,wikipedia_categories_v1
+Illinois,IL,Weightlifting,False,1,wikipedia_categories_v1
+Illinois,IL,Wheelchair Curling,True,1,wikipedia_categories_v1
+Illinois,IL,Wheelchair Fencing,True,1,wikipedia_categories_v1
+Illinois,IL,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Indiana,IN,Athletics,False,18,wikipedia_categories_v1
+Indiana,IN,Swimming,False,14,wikipedia_categories_v1
+Indiana,IN,Rowing,False,6,wikipedia_categories_v1
+Indiana,IN,Wrestling,False,5,wikipedia_categories_v1
+Indiana,IN,Shooting,False,4,wikipedia_categories_v1
+Indiana,IN,Bobsleigh,False,3,wikipedia_categories_v1
+Indiana,IN,Para Swimming,True,3,wikipedia_categories_v1
+Indiana,IN,Cycling,False,2,wikipedia_categories_v1
+Indiana,IN,Diving,False,2,wikipedia_categories_v1
+Indiana,IN,Ice Hockey,False,2,wikipedia_categories_v1
+Indiana,IN,Para Rowing,True,2,wikipedia_categories_v1
+Indiana,IN,Sitting Volleyball,True,2,wikipedia_categories_v1
+Indiana,IN,3x3 Basketball,False,1,wikipedia_categories_v1
+Indiana,IN,Artistic Swimming,False,1,wikipedia_categories_v1
+Indiana,IN,Baseball,False,1,wikipedia_categories_v1
+Indiana,IN,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Indiana,IN,Fencing,False,1,wikipedia_categories_v1
+Indiana,IN,Goalball,True,1,wikipedia_categories_v1
+Indiana,IN,Gymnastics,False,1,wikipedia_categories_v1
+Indiana,IN,Handball,False,1,wikipedia_categories_v1
+Indiana,IN,Modern Pentathlon,False,1,wikipedia_categories_v1
+Indiana,IN,Para Archery,True,1,wikipedia_categories_v1
+Indiana,IN,Para Athletics,True,1,wikipedia_categories_v1
+Indiana,IN,Para Cycling,True,1,wikipedia_categories_v1
+Indiana,IN,Rugby Sevens,False,1,wikipedia_categories_v1
+Indiana,IN,Softball,False,1,wikipedia_categories_v1
+Indiana,IN,Speed Skating,False,1,wikipedia_categories_v1
+Indiana,IN,Sport Climbing,False,1,wikipedia_categories_v1
+Indiana,IN,Table Tennis,False,1,wikipedia_categories_v1
+Indiana,IN,Wheelchair Fencing,True,1,wikipedia_categories_v1
+Indiana,IN,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Iowa,IA,Athletics,False,17,wikipedia_categories_v1
+Iowa,IA,Wrestling,False,10,wikipedia_categories_v1
+Iowa,IA,Para Athletics,True,5,wikipedia_categories_v1
+Iowa,IA,Shooting,False,4,wikipedia_categories_v1
+Iowa,IA,Wheelchair Basketball,True,3,wikipedia_categories_v1
+Iowa,IA,Bobsleigh,False,2,wikipedia_categories_v1
+Iowa,IA,Cycling,False,2,wikipedia_categories_v1
+Iowa,IA,Gymnastics,False,2,wikipedia_categories_v1
+Iowa,IA,Para Ice Hockey,True,2,wikipedia_categories_v1
+Iowa,IA,Rowing,False,2,wikipedia_categories_v1
+Iowa,IA,Speed Skating,False,2,wikipedia_categories_v1
+Iowa,IA,Water Polo,False,2,wikipedia_categories_v1
+Iowa,IA,Archery,False,1,wikipedia_categories_v1
+Iowa,IA,Baseball,False,1,wikipedia_categories_v1
+Iowa,IA,Boxing,False,1,wikipedia_categories_v1
+Iowa,IA,Canoe,False,1,wikipedia_categories_v1
+Iowa,IA,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Iowa,IA,Diving,False,1,wikipedia_categories_v1
+Iowa,IA,Equestrian,False,1,wikipedia_categories_v1
+Iowa,IA,Fencing,False,1,wikipedia_categories_v1
+Iowa,IA,Figure Skating,False,1,wikipedia_categories_v1
+Iowa,IA,Nordic Combined,False,1,wikipedia_categories_v1
+Iowa,IA,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Iowa,IA,Para Archery,True,1,wikipedia_categories_v1
+Iowa,IA,Para Swimming,True,1,wikipedia_categories_v1
+Iowa,IA,Para Table Tennis,True,1,wikipedia_categories_v1
+Iowa,IA,Snowboarding,False,1,wikipedia_categories_v1
+Iowa,IA,Table Tennis,False,1,wikipedia_categories_v1
+Iowa,IA,Tennis,False,1,wikipedia_categories_v1
+Iowa,IA,Volleyball,False,1,wikipedia_categories_v1
+Kansas,KS,Athletics,False,10,wikipedia_categories_v1
+Kansas,KS,Shooting,False,4,wikipedia_categories_v1
+Kansas,KS,Wrestling,False,4,wikipedia_categories_v1
+Kansas,KS,Baseball,False,3,wikipedia_categories_v1
+Kansas,KS,Equestrian,False,3,wikipedia_categories_v1
+Kansas,KS,Fencing,False,3,wikipedia_categories_v1
+Kansas,KS,Swimming,False,3,wikipedia_categories_v1
+Kansas,KS,Boxing,False,2,wikipedia_categories_v1
+Kansas,KS,Rowing,False,2,wikipedia_categories_v1
+Kansas,KS,Softball,False,2,wikipedia_categories_v1
+Kansas,KS,Water Polo,False,2,wikipedia_categories_v1
+Kansas,KS,Archery,False,1,wikipedia_categories_v1
+Kansas,KS,Bobsleigh,False,1,wikipedia_categories_v1
+Kansas,KS,Cycling,False,1,wikipedia_categories_v1
+Kansas,KS,Diving,False,1,wikipedia_categories_v1
+Kansas,KS,Gymnastics,False,1,wikipedia_categories_v1
+Kansas,KS,Para Archery,True,1,wikipedia_categories_v1
+Kansas,KS,Para Athletics,True,1,wikipedia_categories_v1
+Kansas,KS,Para Biathlon,True,1,wikipedia_categories_v1
+Kansas,KS,Para Cross-Country Skiing,True,1,wikipedia_categories_v1
+Kansas,KS,Para Swimming,True,1,wikipedia_categories_v1
+Kansas,KS,Sailing,False,1,wikipedia_categories_v1
+Kansas,KS,Tennis,False,1,wikipedia_categories_v1
+Kansas,KS,Volleyball,False,1,wikipedia_categories_v1
+Kansas,KS,Weightlifting,False,1,wikipedia_categories_v1
+Kansas,KS,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Kansas,KS,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Kansas,KS,Wheelchair Tennis,True,1,wikipedia_categories_v1
+Kentucky,KY,Athletics,False,7,wikipedia_categories_v1
+Kentucky,KY,Swimming,False,4,wikipedia_categories_v1
+Kentucky,KY,Boxing,False,3,wikipedia_categories_v1
+Kentucky,KY,Diving,False,2,wikipedia_categories_v1
+Kentucky,KY,Rowing,False,2,wikipedia_categories_v1
+Kentucky,KY,Shooting,False,2,wikipedia_categories_v1
+Kentucky,KY,Alpine Skiing,False,1,wikipedia_categories_v1
+Kentucky,KY,Baseball,False,1,wikipedia_categories_v1
+Kentucky,KY,Fencing,False,1,wikipedia_categories_v1
+Kentucky,KY,Golf,False,1,wikipedia_categories_v1
+Kentucky,KY,Gymnastics,False,1,wikipedia_categories_v1
+Kentucky,KY,Nordic Combined,False,1,wikipedia_categories_v1
+Kentucky,KY,Weightlifting,False,1,wikipedia_categories_v1
+Kentucky,KY,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Louisiana,LA,Athletics,False,12,wikipedia_categories_v1
+Louisiana,LA,Sailing,False,8,wikipedia_categories_v1
+Louisiana,LA,Boxing,False,6,wikipedia_categories_v1
+Louisiana,LA,Gymnastics,False,3,wikipedia_categories_v1
+Louisiana,LA,Shooting,False,3,wikipedia_categories_v1
+Louisiana,LA,Swimming,False,3,wikipedia_categories_v1
+Louisiana,LA,Para Athletics,True,2,wikipedia_categories_v1
+Louisiana,LA,Tennis,False,2,wikipedia_categories_v1
+Louisiana,LA,Weightlifting,False,2,wikipedia_categories_v1
+Louisiana,LA,Beach Volleyball,False,1,wikipedia_categories_v1
+Louisiana,LA,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Louisiana,LA,Diving,False,1,wikipedia_categories_v1
+Louisiana,LA,Nordic Combined,False,1,wikipedia_categories_v1
+Louisiana,LA,Para Cycling,True,1,wikipedia_categories_v1
+Louisiana,LA,Para Judo,True,1,wikipedia_categories_v1
+Louisiana,LA,Para Snowboarding,True,1,wikipedia_categories_v1
+Louisiana,LA,Rowing,False,1,wikipedia_categories_v1
+Louisiana,LA,Wheelchair Fencing,True,1,wikipedia_categories_v1
+Louisiana,LA,Wrestling,False,1,wikipedia_categories_v1
+Maine,ME,Athletics,False,8,wikipedia_categories_v1
+Maine,ME,Cross-Country Skiing,False,5,wikipedia_categories_v1
+Maine,ME,Luge,False,3,wikipedia_categories_v1
+Maine,ME,Nordic Combined,False,3,wikipedia_categories_v1
+Maine,ME,Archery,False,2,wikipedia_categories_v1
+Maine,ME,Biathlon,False,2,wikipedia_categories_v1
+Maine,ME,Ice Hockey,False,2,wikipedia_categories_v1
+Maine,ME,Swimming,False,2,wikipedia_categories_v1
+Maine,ME,Alpine Skiing,False,1,wikipedia_categories_v1
+Maine,ME,Equestrian,False,1,wikipedia_categories_v1
+Maine,ME,Freestyle Skiing,False,1,wikipedia_categories_v1
+Maine,ME,Para Cycling,True,1,wikipedia_categories_v1
+Maine,ME,Rowing,False,1,wikipedia_categories_v1
+Maine,ME,Sailing,False,1,wikipedia_categories_v1
+Maine,ME,Snowboarding,False,1,wikipedia_categories_v1
+Maryland,MD,Athletics,False,10,wikipedia_categories_v1
+Maryland,MD,Soccer,False,6,wikipedia_categories_v1
+Maryland,MD,Fencing,False,5,wikipedia_categories_v1
+Maryland,MD,Figure Skating,False,5,wikipedia_categories_v1
+Maryland,MD,Rowing,False,5,wikipedia_categories_v1
+Maryland,MD,Shooting,False,5,wikipedia_categories_v1
+Maryland,MD,Swimming,False,5,wikipedia_categories_v1
+Maryland,MD,Boxing,False,4,wikipedia_categories_v1
+Maryland,MD,Field Hockey,False,4,wikipedia_categories_v1
+Maryland,MD,Para Swimming,True,4,wikipedia_categories_v1
+Maryland,MD,Sailing,False,3,wikipedia_categories_v1
+Maryland,MD,Bobsleigh,False,2,wikipedia_categories_v1
+Maryland,MD,Canoe,False,2,wikipedia_categories_v1
+Maryland,MD,Cycling,False,2,wikipedia_categories_v1
+Maryland,MD,Lacrosse,False,2,wikipedia_categories_v1
+Maryland,MD,Para Athletics,True,2,wikipedia_categories_v1
+Maryland,MD,Triathlon,False,2,wikipedia_categories_v1
+Maryland,MD,Wheelchair Basketball,True,2,wikipedia_categories_v1
+Maryland,MD,Alpine Skiing,False,1,wikipedia_categories_v1
+Maryland,MD,Baseball,False,1,wikipedia_categories_v1
+Maryland,MD,Gymnastics,False,1,wikipedia_categories_v1
+Maryland,MD,Luge,False,1,wikipedia_categories_v1
+Maryland,MD,Para Ice Hockey,True,1,wikipedia_categories_v1
+Maryland,MD,Rugby Sevens,False,1,wikipedia_categories_v1
+Maryland,MD,Skateboarding,False,1,wikipedia_categories_v1
+Maryland,MD,Speed Skating,False,1,wikipedia_categories_v1
+Maryland,MD,Tennis,False,1,wikipedia_categories_v1
+Maryland,MD,Tug of War,False,1,wikipedia_categories_v1
+Maryland,MD,Water Polo,False,1,wikipedia_categories_v1
+Maryland,MD,Weightlifting,False,1,wikipedia_categories_v1
+Massachusetts,MA,Ice Hockey,False,56,wikipedia_categories_v1
+Massachusetts,MA,Rowing,False,37,wikipedia_categories_v1
+Massachusetts,MA,Athletics,False,36,wikipedia_categories_v1
+Massachusetts,MA,Shooting,False,14,wikipedia_categories_v1
+Massachusetts,MA,Figure Skating,False,13,wikipedia_categories_v1
+Massachusetts,MA,Fencing,False,11,wikipedia_categories_v1
+Massachusetts,MA,Alpine Skiing,False,8,wikipedia_categories_v1
+Massachusetts,MA,Field Hockey,False,8,wikipedia_categories_v1
+Massachusetts,MA,Swimming,False,8,wikipedia_categories_v1
+Massachusetts,MA,Luge,False,7,wikipedia_categories_v1
+Massachusetts,MA,Sailing,False,7,wikipedia_categories_v1
+Massachusetts,MA,Soccer,False,6,wikipedia_categories_v1
+Massachusetts,MA,Freestyle Skiing,False,5,wikipedia_categories_v1
+Massachusetts,MA,Para Ice Hockey,True,5,wikipedia_categories_v1
+Massachusetts,MA,Baseball,False,4,wikipedia_categories_v1
+Massachusetts,MA,Cycling,False,4,wikipedia_categories_v1
+Massachusetts,MA,Bobsleigh,False,3,wikipedia_categories_v1
+Massachusetts,MA,Boxing,False,3,wikipedia_categories_v1
+Massachusetts,MA,Gymnastics,False,3,wikipedia_categories_v1
+Massachusetts,MA,Para Rowing,True,3,wikipedia_categories_v1
+Massachusetts,MA,Snowboarding,False,3,wikipedia_categories_v1
+Massachusetts,MA,Speed Skating,False,3,wikipedia_categories_v1
+Massachusetts,MA,Archery,False,2,wikipedia_categories_v1
+Massachusetts,MA,Artistic Swimming,False,2,wikipedia_categories_v1
+Massachusetts,MA,Biathlon,False,2,wikipedia_categories_v1
+Massachusetts,MA,Cross-Country Skiing,False,2,wikipedia_categories_v1
+Massachusetts,MA,Golf,False,2,wikipedia_categories_v1
+Massachusetts,MA,Modern Pentathlon,False,2,wikipedia_categories_v1
+Massachusetts,MA,Para Alpine Skiing,True,2,wikipedia_categories_v1
+Massachusetts,MA,Para Swimming,True,2,wikipedia_categories_v1
+Massachusetts,MA,Short Track Speed Skating,False,2,wikipedia_categories_v1
+Massachusetts,MA,Tug of War,False,2,wikipedia_categories_v1
+Massachusetts,MA,Water Polo,False,2,wikipedia_categories_v1
+Massachusetts,MA,Wheelchair Curling,True,2,wikipedia_categories_v1
+Massachusetts,MA,Badminton,False,1,wikipedia_categories_v1
+Massachusetts,MA,Curling,False,1,wikipedia_categories_v1
+Massachusetts,MA,Diving,False,1,wikipedia_categories_v1
+Massachusetts,MA,Equestrian,False,1,wikipedia_categories_v1
+Massachusetts,MA,Judo,False,1,wikipedia_categories_v1
+Massachusetts,MA,Para Athletics,True,1,wikipedia_categories_v1
+Massachusetts,MA,Para Cycling,True,1,wikipedia_categories_v1
+Massachusetts,MA,Rugby Sevens,False,1,wikipedia_categories_v1
+Massachusetts,MA,Weightlifting,False,1,wikipedia_categories_v1
+Michigan,MI,Ice Hockey,False,22,wikipedia_categories_v1
+Michigan,MI,Athletics,False,21,wikipedia_categories_v1
+Michigan,MI,Rowing,False,21,wikipedia_categories_v1
+Michigan,MI,Figure Skating,False,10,wikipedia_categories_v1
+Michigan,MI,Boxing,False,9,wikipedia_categories_v1
+Michigan,MI,Swimming,False,8,wikipedia_categories_v1
+Michigan,MI,Fencing,False,5,wikipedia_categories_v1
+Michigan,MI,Goalball,True,5,wikipedia_categories_v1
+Michigan,MI,Speed Skating,False,5,wikipedia_categories_v1
+Michigan,MI,Cycling,False,4,wikipedia_categories_v1
+Michigan,MI,Para Athletics,True,4,wikipedia_categories_v1
+Michigan,MI,Shooting,False,4,wikipedia_categories_v1
+Michigan,MI,Soccer,False,4,wikipedia_categories_v1
+Michigan,MI,Wheelchair Basketball,True,4,wikipedia_categories_v1
+Michigan,MI,Diving,False,3,wikipedia_categories_v1
+Michigan,MI,Handball,False,3,wikipedia_categories_v1
+Michigan,MI,Snowboarding,False,3,wikipedia_categories_v1
+Michigan,MI,Wrestling,False,3,wikipedia_categories_v1
+Michigan,MI,Archery,False,2,wikipedia_categories_v1
+Michigan,MI,Beach Volleyball,False,2,wikipedia_categories_v1
+Michigan,MI,Cross-Country Skiing,False,2,wikipedia_categories_v1
+Michigan,MI,Judo,False,2,wikipedia_categories_v1
+Michigan,MI,Modern Pentathlon,False,2,wikipedia_categories_v1
+Michigan,MI,Para Cycling,True,2,wikipedia_categories_v1
+Michigan,MI,Para Triathlon,True,2,wikipedia_categories_v1
+Michigan,MI,Sailing,False,2,wikipedia_categories_v1
+Michigan,MI,Short Track Speed Skating,False,2,wikipedia_categories_v1
+Michigan,MI,Wheelchair Tennis,True,2,wikipedia_categories_v1
+Michigan,MI,Baseball,False,1,wikipedia_categories_v1
+Michigan,MI,Bobsleigh,False,1,wikipedia_categories_v1
+Michigan,MI,Equestrian,False,1,wikipedia_categories_v1
+Michigan,MI,Field Hockey,False,1,wikipedia_categories_v1
+Michigan,MI,Freestyle Skiing,False,1,wikipedia_categories_v1
+Michigan,MI,Gymnastics,False,1,wikipedia_categories_v1
+Michigan,MI,Nordic Combined,False,1,wikipedia_categories_v1
+Michigan,MI,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Michigan,MI,Para Badminton,True,1,wikipedia_categories_v1
+Michigan,MI,Para Football,True,1,wikipedia_categories_v1
+Michigan,MI,Para Ice Hockey,True,1,wikipedia_categories_v1
+Michigan,MI,Para Powerlifting,True,1,wikipedia_categories_v1
+Michigan,MI,Para Rowing,True,1,wikipedia_categories_v1
+Michigan,MI,Para Swimming,True,1,wikipedia_categories_v1
+Michigan,MI,Para Taekwondo,True,1,wikipedia_categories_v1
+Michigan,MI,Ski Jumping,False,1,wikipedia_categories_v1
+Michigan,MI,Softball,False,1,wikipedia_categories_v1
+Michigan,MI,Sport Climbing,False,1,wikipedia_categories_v1
+Michigan,MI,Table Tennis,False,1,wikipedia_categories_v1
+Michigan,MI,Tennis,False,1,wikipedia_categories_v1
+Michigan,MI,Triathlon,False,1,wikipedia_categories_v1
+Michigan,MI,Wheelchair Fencing,True,1,wikipedia_categories_v1
+Minnesota,MN,Ice Hockey,False,73,wikipedia_categories_v1
+Minnesota,MN,Athletics,False,21,wikipedia_categories_v1
+Minnesota,MN,Curling,False,21,wikipedia_categories_v1
+Minnesota,MN,Speed Skating,False,19,wikipedia_categories_v1
+Minnesota,MN,Wrestling,False,11,wikipedia_categories_v1
+Minnesota,MN,Biathlon,False,9,wikipedia_categories_v1
+Minnesota,MN,Cross-Country Skiing,False,8,wikipedia_categories_v1
+Minnesota,MN,Shooting,False,7,wikipedia_categories_v1
+Minnesota,MN,Figure Skating,False,6,wikipedia_categories_v1
+Minnesota,MN,Ski Jumping,False,6,wikipedia_categories_v1
+Minnesota,MN,Swimming,False,6,wikipedia_categories_v1
+Minnesota,MN,Gymnastics,False,5,wikipedia_categories_v1
+Minnesota,MN,Rowing,False,5,wikipedia_categories_v1
+Minnesota,MN,Alpine Skiing,False,4,wikipedia_categories_v1
+Minnesota,MN,Diving,False,3,wikipedia_categories_v1
+Minnesota,MN,Freestyle Skiing,False,3,wikipedia_categories_v1
+Minnesota,MN,Handball,False,3,wikipedia_categories_v1
+Minnesota,MN,Luge,False,3,wikipedia_categories_v1
+Minnesota,MN,Para Athletics,True,3,wikipedia_categories_v1
+Minnesota,MN,Para Cross-Country Skiing,True,3,wikipedia_categories_v1
+Minnesota,MN,Para Swimming,True,3,wikipedia_categories_v1
+Minnesota,MN,Sailing,False,3,wikipedia_categories_v1
+Minnesota,MN,Wheelchair Basketball,True,3,wikipedia_categories_v1
+Minnesota,MN,Boxing,False,2,wikipedia_categories_v1
+Minnesota,MN,Para Biathlon,True,2,wikipedia_categories_v1
+Minnesota,MN,Para Table Tennis,True,2,wikipedia_categories_v1
+Minnesota,MN,Rugby Sevens,False,2,wikipedia_categories_v1
+Minnesota,MN,Baseball,False,1,wikipedia_categories_v1
+Minnesota,MN,Beach Volleyball,False,1,wikipedia_categories_v1
+Minnesota,MN,Cycling,False,1,wikipedia_categories_v1
+Minnesota,MN,Equestrian,False,1,wikipedia_categories_v1
+Minnesota,MN,Field Hockey,False,1,wikipedia_categories_v1
+Minnesota,MN,Para Archery,True,1,wikipedia_categories_v1
+Minnesota,MN,Para Ice Hockey,True,1,wikipedia_categories_v1
+Minnesota,MN,Para Judo,True,1,wikipedia_categories_v1
+Minnesota,MN,Para Rowing,True,1,wikipedia_categories_v1
+Minnesota,MN,Para Snowboarding,True,1,wikipedia_categories_v1
+Minnesota,MN,Sitting Volleyball,True,1,wikipedia_categories_v1
+Minnesota,MN,Soccer,False,1,wikipedia_categories_v1
+Minnesota,MN,Sport Climbing,False,1,wikipedia_categories_v1
+Minnesota,MN,Triathlon,False,1,wikipedia_categories_v1
+Minnesota,MN,Volleyball,False,1,wikipedia_categories_v1
+Minnesota,MN,Water Polo,False,1,wikipedia_categories_v1
+Minnesota,MN,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Mississippi,MS,Athletics,False,13,wikipedia_categories_v1
+Mississippi,MS,Boxing,False,3,wikipedia_categories_v1
+Mississippi,MS,Shooting,False,3,wikipedia_categories_v1
+Mississippi,MS,Handball,False,2,wikipedia_categories_v1
+Mississippi,MS,Para Athletics,True,2,wikipedia_categories_v1
+Mississippi,MS,Freestyle Skiing,False,1,wikipedia_categories_v1
+Mississippi,MS,Modern Pentathlon,False,1,wikipedia_categories_v1
+Mississippi,MS,Para Table Tennis,True,1,wikipedia_categories_v1
+Mississippi,MS,Sailing,False,1,wikipedia_categories_v1
+Mississippi,MS,Swimming,False,1,wikipedia_categories_v1
+Mississippi,MS,Wheelchair Fencing,True,1,wikipedia_categories_v1
+Missouri,MO,Athletics,False,29,wikipedia_categories_v1
+Missouri,MO,Soccer,False,22,wikipedia_categories_v1
+Missouri,MO,Cycling,False,8,wikipedia_categories_v1
+Missouri,MO,Speed Skating,False,6,wikipedia_categories_v1
+Missouri,MO,Boxing,False,5,wikipedia_categories_v1
+Missouri,MO,Equestrian,False,5,wikipedia_categories_v1
+Missouri,MO,Tennis,False,5,wikipedia_categories_v1
+Missouri,MO,Water Polo,False,5,wikipedia_categories_v1
+Missouri,MO,Fencing,False,3,wikipedia_categories_v1
+Missouri,MO,Para Ice Hockey,True,3,wikipedia_categories_v1
+Missouri,MO,Wrestling,False,3,wikipedia_categories_v1
+Missouri,MO,Rowing,False,2,wikipedia_categories_v1
+Missouri,MO,Shooting,False,2,wikipedia_categories_v1
+Missouri,MO,Short Track Speed Skating,False,2,wikipedia_categories_v1
+Missouri,MO,Wheelchair Rugby,True,2,wikipedia_categories_v1
+Missouri,MO,Archery,False,1,wikipedia_categories_v1
+Missouri,MO,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Missouri,MO,Diving,False,1,wikipedia_categories_v1
+Missouri,MO,Figure Skating,False,1,wikipedia_categories_v1
+Missouri,MO,Golf,False,1,wikipedia_categories_v1
+Missouri,MO,Gymnastics,False,1,wikipedia_categories_v1
+Missouri,MO,Handball,False,1,wikipedia_categories_v1
+Missouri,MO,Ice Hockey,False,1,wikipedia_categories_v1
+Missouri,MO,Nordic Combined,False,1,wikipedia_categories_v1
+Missouri,MO,Para Athletics,True,1,wikipedia_categories_v1
+Missouri,MO,Para Snowboarding,True,1,wikipedia_categories_v1
+Missouri,MO,Para Swimming,True,1,wikipedia_categories_v1
+Missouri,MO,Sailing,False,1,wikipedia_categories_v1
+Missouri,MO,Ski Jumping,False,1,wikipedia_categories_v1
+Missouri,MO,Swimming,False,1,wikipedia_categories_v1
+Missouri,MO,Triathlon,False,1,wikipedia_categories_v1
+Missouri,MO,Tug of War,False,1,wikipedia_categories_v1
+Missouri,MO,Volleyball,False,1,wikipedia_categories_v1
+Missouri,MO,Weightlifting,False,1,wikipedia_categories_v1
+Missouri,MO,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Montana,MT,Athletics,False,7,wikipedia_categories_v1
+Montana,MT,Freestyle Skiing,False,7,wikipedia_categories_v1
+Montana,MT,Shooting,False,6,wikipedia_categories_v1
+Montana,MT,Luge,False,4,wikipedia_categories_v1
+Montana,MT,Cross-Country Skiing,False,3,wikipedia_categories_v1
+Montana,MT,Alpine Skiing,False,1,wikipedia_categories_v1
+Montana,MT,Artistic Swimming,False,1,wikipedia_categories_v1
+Montana,MT,Biathlon,False,1,wikipedia_categories_v1
+Montana,MT,Boxing,False,1,wikipedia_categories_v1
+Montana,MT,Cycling,False,1,wikipedia_categories_v1
+Montana,MT,Figure Skating,False,1,wikipedia_categories_v1
+Montana,MT,Para Athletics,True,1,wikipedia_categories_v1
+Montana,MT,Para Swimming,True,1,wikipedia_categories_v1
+Montana,MT,Rugby Sevens,False,1,wikipedia_categories_v1
+Montana,MT,Rugby Union,False,1,wikipedia_categories_v1
+Montana,MT,Speed Skating,False,1,wikipedia_categories_v1
+Montana,MT,Wrestling,False,1,wikipedia_categories_v1
+Nebraska,NE,Athletics,False,10,wikipedia_categories_v1
+Nebraska,NE,Shooting,False,5,wikipedia_categories_v1
+Nebraska,NE,Para Athletics,True,3,wikipedia_categories_v1
+Nebraska,NE,Sitting Volleyball,True,2,wikipedia_categories_v1
+Nebraska,NE,Soccer,False,2,wikipedia_categories_v1
+Nebraska,NE,Wrestling,False,2,wikipedia_categories_v1
+Nebraska,NE,3x3 Basketball,False,1,wikipedia_categories_v1
+Nebraska,NE,Baseball,False,1,wikipedia_categories_v1
+Nebraska,NE,Boxing,False,1,wikipedia_categories_v1
+Nebraska,NE,Canoe,False,1,wikipedia_categories_v1
+Nebraska,NE,Diving,False,1,wikipedia_categories_v1
+Nebraska,NE,Figure Skating,False,1,wikipedia_categories_v1
+Nebraska,NE,Ice Hockey,False,1,wikipedia_categories_v1
+Nebraska,NE,Modern Pentathlon,False,1,wikipedia_categories_v1
+Nebraska,NE,Para Badminton,True,1,wikipedia_categories_v1
+Nebraska,NE,Rowing,False,1,wikipedia_categories_v1
+Nebraska,NE,Rugby Sevens,False,1,wikipedia_categories_v1
+Nebraska,NE,Sailing,False,1,wikipedia_categories_v1
+Nebraska,NE,Speed Skating,False,1,wikipedia_categories_v1
+Nebraska,NE,Swimming,False,1,wikipedia_categories_v1
+Nebraska,NE,Tennis,False,1,wikipedia_categories_v1
+Nebraska,NE,Volleyball,False,1,wikipedia_categories_v1
+Nebraska,NE,Water Polo,False,1,wikipedia_categories_v1
+Nebraska,NE,Weightlifting,False,1,wikipedia_categories_v1
+Nebraska,NE,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Nevada,NV,Athletics,False,4,wikipedia_categories_v1
+Nevada,NV,Alpine Skiing,False,2,wikipedia_categories_v1
+Nevada,NV,Freestyle Skiing,False,2,wikipedia_categories_v1
+Nevada,NV,Shooting,False,2,wikipedia_categories_v1
+Nevada,NV,Water Polo,False,2,wikipedia_categories_v1
+Nevada,NV,Bobsleigh,False,1,wikipedia_categories_v1
+Nevada,NV,Diving,False,1,wikipedia_categories_v1
+Nevada,NV,Fencing,False,1,wikipedia_categories_v1
+Nevada,NV,Gymnastics,False,1,wikipedia_categories_v1
+Nevada,NV,Judo,False,1,wikipedia_categories_v1
+Nevada,NV,Para Athletics,True,1,wikipedia_categories_v1
+Nevada,NV,Para Swimming,True,1,wikipedia_categories_v1
+Nevada,NV,Sitting Volleyball,True,1,wikipedia_categories_v1
+Nevada,NV,Snowboarding,False,1,wikipedia_categories_v1
+Nevada,NV,Soccer,False,1,wikipedia_categories_v1
+Nevada,NV,Tennis,False,1,wikipedia_categories_v1
+Nevada,NV,Wrestling,False,1,wikipedia_categories_v1
+New Hampshire,NH,Alpine Skiing,False,8,wikipedia_categories_v1
+New Hampshire,NH,Rowing,False,8,wikipedia_categories_v1
+New Hampshire,NH,Cross-Country Skiing,False,7,wikipedia_categories_v1
+New Hampshire,NH,Athletics,False,5,wikipedia_categories_v1
+New Hampshire,NH,Biathlon,False,5,wikipedia_categories_v1
+New Hampshire,NH,Nordic Combined,False,3,wikipedia_categories_v1
+New Hampshire,NH,Soccer,False,3,wikipedia_categories_v1
+New Hampshire,NH,Freestyle Skiing,False,2,wikipedia_categories_v1
+New Hampshire,NH,Para Athletics,True,2,wikipedia_categories_v1
+New Hampshire,NH,Ski Jumping,False,2,wikipedia_categories_v1
+New Hampshire,NH,Snowboarding,False,2,wikipedia_categories_v1
+New Hampshire,NH,Baseball,False,1,wikipedia_categories_v1
+New Hampshire,NH,Bobsleigh,False,1,wikipedia_categories_v1
+New Hampshire,NH,Cycling,False,1,wikipedia_categories_v1
+New Hampshire,NH,Diving,False,1,wikipedia_categories_v1
+New Hampshire,NH,Fencing,False,1,wikipedia_categories_v1
+New Hampshire,NH,Ice Hockey,False,1,wikipedia_categories_v1
+New Hampshire,NH,Modern Pentathlon,False,1,wikipedia_categories_v1
+New Hampshire,NH,Para Alpine Skiing,True,1,wikipedia_categories_v1
+New Hampshire,NH,Para Archery,True,1,wikipedia_categories_v1
+New Hampshire,NH,Para Swimming,True,1,wikipedia_categories_v1
+New Hampshire,NH,Swimming,False,1,wikipedia_categories_v1
+New Hampshire,NH,Triathlon,False,1,wikipedia_categories_v1
+New Hampshire,NH,Water Polo,False,1,wikipedia_categories_v1
+New Hampshire,NH,Wrestling,False,1,wikipedia_categories_v1
+New Jersey,NJ,Athletics,False,30,wikipedia_categories_v1
+New Jersey,NJ,Rowing,False,29,wikipedia_categories_v1
+New Jersey,NJ,Soccer,False,21,wikipedia_categories_v1
+New Jersey,NJ,Fencing,False,20,wikipedia_categories_v1
+New Jersey,NJ,Cycling,False,16,wikipedia_categories_v1
+New Jersey,NJ,Gymnastics,False,14,wikipedia_categories_v1
+New Jersey,NJ,Swimming,False,14,wikipedia_categories_v1
+New Jersey,NJ,Sailing,False,6,wikipedia_categories_v1
+New Jersey,NJ,Shooting,False,6,wikipedia_categories_v1
+New Jersey,NJ,Wrestling,False,6,wikipedia_categories_v1
+New Jersey,NJ,Baseball,False,5,wikipedia_categories_v1
+New Jersey,NJ,Bobsleigh,False,5,wikipedia_categories_v1
+New Jersey,NJ,Figure Skating,False,5,wikipedia_categories_v1
+New Jersey,NJ,Handball,False,5,wikipedia_categories_v1
+New Jersey,NJ,Boxing,False,4,wikipedia_categories_v1
+New Jersey,NJ,Luge,False,4,wikipedia_categories_v1
+New Jersey,NJ,Snowboarding,False,4,wikipedia_categories_v1
+New Jersey,NJ,Field Hockey,False,3,wikipedia_categories_v1
+New Jersey,NJ,Freestyle Skiing,False,3,wikipedia_categories_v1
+New Jersey,NJ,Ice Hockey,False,3,wikipedia_categories_v1
+New Jersey,NJ,Judo,False,3,wikipedia_categories_v1
+New Jersey,NJ,Para Athletics,True,3,wikipedia_categories_v1
+New Jersey,NJ,Weightlifting,False,3,wikipedia_categories_v1
+New Jersey,NJ,Alpine Skiing,False,2,wikipedia_categories_v1
+New Jersey,NJ,Diving,False,2,wikipedia_categories_v1
+New Jersey,NJ,Goalball,True,2,wikipedia_categories_v1
+New Jersey,NJ,Para Judo,True,2,wikipedia_categories_v1
+New Jersey,NJ,Short Track Speed Skating,False,2,wikipedia_categories_v1
+New Jersey,NJ,Tennis,False,2,wikipedia_categories_v1
+New Jersey,NJ,Canoe,False,1,wikipedia_categories_v1
+New Jersey,NJ,Cross-Country Skiing,False,1,wikipedia_categories_v1
+New Jersey,NJ,Equestrian,False,1,wikipedia_categories_v1
+New Jersey,NJ,Golf,False,1,wikipedia_categories_v1
+New Jersey,NJ,Modern Pentathlon,False,1,wikipedia_categories_v1
+New Jersey,NJ,Para Alpine Skiing,True,1,wikipedia_categories_v1
+New Jersey,NJ,Para Ice Hockey,True,1,wikipedia_categories_v1
+New Jersey,NJ,Para Sailing,True,1,wikipedia_categories_v1
+New Jersey,NJ,Para Swimming,True,1,wikipedia_categories_v1
+New Jersey,NJ,Para Table Tennis,True,1,wikipedia_categories_v1
+New Jersey,NJ,Sitting Volleyball,True,1,wikipedia_categories_v1
+New Jersey,NJ,Skeleton,False,1,wikipedia_categories_v1
+New Jersey,NJ,Softball,False,1,wikipedia_categories_v1
+New Jersey,NJ,Speed Skating,False,1,wikipedia_categories_v1
+New Jersey,NJ,Table Tennis,False,1,wikipedia_categories_v1
+New Jersey,NJ,Triathlon,False,1,wikipedia_categories_v1
+New Jersey,NJ,Wheelchair Tennis,True,1,wikipedia_categories_v1
+New Mexico,NM,Athletics,False,4,wikipedia_categories_v1
+New Mexico,NM,Gymnastics,False,3,wikipedia_categories_v1
+New Mexico,NM,Cycling,False,2,wikipedia_categories_v1
+New Mexico,NM,Fencing,False,2,wikipedia_categories_v1
+New Mexico,NM,Alpine Skiing,False,1,wikipedia_categories_v1
+New Mexico,NM,Baseball,False,1,wikipedia_categories_v1
+New Mexico,NM,Biathlon,False,1,wikipedia_categories_v1
+New Mexico,NM,Cross-Country Skiing,False,1,wikipedia_categories_v1
+New Mexico,NM,Diving,False,1,wikipedia_categories_v1
+New Mexico,NM,Freestyle Skiing,False,1,wikipedia_categories_v1
+New Mexico,NM,Golf,False,1,wikipedia_categories_v1
+New Mexico,NM,Modern Pentathlon,False,1,wikipedia_categories_v1
+New Mexico,NM,Para Alpine Skiing,True,1,wikipedia_categories_v1
+New Mexico,NM,Para Ice Hockey,True,1,wikipedia_categories_v1
+New Mexico,NM,Para Swimming,True,1,wikipedia_categories_v1
+New Mexico,NM,Rowing,False,1,wikipedia_categories_v1
+New Mexico,NM,Skateboarding,False,1,wikipedia_categories_v1
+New Mexico,NM,Skeleton,False,1,wikipedia_categories_v1
+New Mexico,NM,Ski Jumping,False,1,wikipedia_categories_v1
+New Mexico,NM,Swimming,False,1,wikipedia_categories_v1
+New York,NY,Athletics,False,55,wikipedia_categories_v1
+New York,NY,Fencing,False,46,wikipedia_categories_v1
+New York,NY,Rowing,False,45,wikipedia_categories_v1
+New York,NY,Bobsleigh,False,32,wikipedia_categories_v1
+New York,NY,Cycling,False,25,wikipedia_categories_v1
+New York,NY,Shooting,False,18,wikipedia_categories_v1
+New York,NY,Ice Hockey,False,15,wikipedia_categories_v1
+New York,NY,Luge,False,15,wikipedia_categories_v1
+New York,NY,Sailing,False,15,wikipedia_categories_v1
+New York,NY,Speed Skating,False,14,wikipedia_categories_v1
+New York,NY,Boxing,False,11,wikipedia_categories_v1
+New York,NY,Handball,False,11,wikipedia_categories_v1
+New York,NY,Tennis,False,10,wikipedia_categories_v1
+New York,NY,Figure Skating,False,9,wikipedia_categories_v1
+New York,NY,Swimming,False,9,wikipedia_categories_v1
+New York,NY,Alpine Skiing,False,8,wikipedia_categories_v1
+New York,NY,Biathlon,False,8,wikipedia_categories_v1
+New York,NY,Wrestling,False,8,wikipedia_categories_v1
+New York,NY,Cross-Country Skiing,False,7,wikipedia_categories_v1
+New York,NY,Diving,False,7,wikipedia_categories_v1
+New York,NY,Equestrian,False,7,wikipedia_categories_v1
+New York,NY,Freestyle Skiing,False,7,wikipedia_categories_v1
+New York,NY,Gymnastics,False,7,wikipedia_categories_v1
+New York,NY,Nordic Combined,False,6,wikipedia_categories_v1
+New York,NY,Soccer,False,6,wikipedia_categories_v1
+New York,NY,Field Hockey,False,5,wikipedia_categories_v1
+New York,NY,Judo,False,5,wikipedia_categories_v1
+New York,NY,Para Ice Hockey,True,5,wikipedia_categories_v1
+New York,NY,Para Athletics,True,4,wikipedia_categories_v1
+New York,NY,Para Rowing,True,4,wikipedia_categories_v1
+New York,NY,Snowboarding,False,4,wikipedia_categories_v1
+New York,NY,Canoe,False,3,wikipedia_categories_v1
+New York,NY,Para Cycling,True,3,wikipedia_categories_v1
+New York,NY,Para Swimming,True,3,wikipedia_categories_v1
+New York,NY,Short Track Speed Skating,False,3,wikipedia_categories_v1
+New York,NY,Ski Jumping,False,3,wikipedia_categories_v1
+New York,NY,Water Polo,False,3,wikipedia_categories_v1
+New York,NY,Weightlifting,False,3,wikipedia_categories_v1
+New York,NY,Artistic Swimming,False,2,wikipedia_categories_v1
+New York,NY,Para Table Tennis,True,2,wikipedia_categories_v1
+New York,NY,Rugby Sevens,False,2,wikipedia_categories_v1
+New York,NY,Tug of War,False,2,wikipedia_categories_v1
+New York,NY,Volleyball,False,2,wikipedia_categories_v1
+New York,NY,Wheelchair Rugby,True,2,wikipedia_categories_v1
+New York,NY,3x3 Basketball,False,1,wikipedia_categories_v1
+New York,NY,Badminton,False,1,wikipedia_categories_v1
+New York,NY,Curling,False,1,wikipedia_categories_v1
+New York,NY,Karate,False,1,wikipedia_categories_v1
+New York,NY,Para Shooting,True,1,wikipedia_categories_v1
+New York,NY,Para Taekwondo,True,1,wikipedia_categories_v1
+New York,NY,Real Tennis,False,1,wikipedia_categories_v1
+New York,NY,Skeleton,False,1,wikipedia_categories_v1
+New York,NY,Softball,False,1,wikipedia_categories_v1
+New York,NY,Sport Climbing,False,1,wikipedia_categories_v1
+New York,NY,Wheelchair Basketball,True,1,wikipedia_categories_v1
+New York,NY,Wheelchair Curling,True,1,wikipedia_categories_v1
+New York,NY,Wheelchair Tennis,True,1,wikipedia_categories_v1
+North Carolina,NC,Athletics,False,16,wikipedia_categories_v1
+North Carolina,NC,Boxing,False,4,wikipedia_categories_v1
+North Carolina,NC,Para Swimming,True,4,wikipedia_categories_v1
+North Carolina,NC,Shooting,False,3,wikipedia_categories_v1
+North Carolina,NC,Speed Skating,False,3,wikipedia_categories_v1
+North Carolina,NC,Cycling,False,2,wikipedia_categories_v1
+North Carolina,NC,Equestrian,False,2,wikipedia_categories_v1
+North Carolina,NC,Handball,False,2,wikipedia_categories_v1
+North Carolina,NC,Para Athletics,True,2,wikipedia_categories_v1
+North Carolina,NC,Soccer,False,2,wikipedia_categories_v1
+North Carolina,NC,Baseball,False,1,wikipedia_categories_v1
+North Carolina,NC,Bobsleigh,False,1,wikipedia_categories_v1
+North Carolina,NC,Figure Skating,False,1,wikipedia_categories_v1
+North Carolina,NC,Judo,False,1,wikipedia_categories_v1
+North Carolina,NC,Para Judo,True,1,wikipedia_categories_v1
+North Carolina,NC,Rowing,False,1,wikipedia_categories_v1
+North Carolina,NC,Sailing,False,1,wikipedia_categories_v1
+North Carolina,NC,Swimming,False,1,wikipedia_categories_v1
+North Carolina,NC,Tennis,False,1,wikipedia_categories_v1
+North Carolina,NC,Triathlon,False,1,wikipedia_categories_v1
+North Carolina,NC,Wheelchair Basketball,True,1,wikipedia_categories_v1
+North Dakota,ND,Athletics,False,2,wikipedia_categories_v1
+North Dakota,ND,Water Polo,False,2,wikipedia_categories_v1
+North Dakota,ND,Baseball,False,1,wikipedia_categories_v1
+North Dakota,ND,Figure Skating,False,1,wikipedia_categories_v1
+North Dakota,ND,Shooting,False,1,wikipedia_categories_v1
+North Dakota,ND,Soccer,False,1,wikipedia_categories_v1
+North Dakota,ND,Wrestling,False,1,wikipedia_categories_v1
+Ohio,OH,Athletics,False,34,wikipedia_categories_v1
+Ohio,OH,Boxing,False,19,wikipedia_categories_v1
+Ohio,OH,Shooting,False,13,wikipedia_categories_v1
+Ohio,OH,Rowing,False,12,wikipedia_categories_v1
+Ohio,OH,Wrestling,False,8,wikipedia_categories_v1
+Ohio,OH,Cycling,False,7,wikipedia_categories_v1
+Ohio,OH,Fencing,False,7,wikipedia_categories_v1
+Ohio,OH,Swimming,False,7,wikipedia_categories_v1
+Ohio,OH,Freestyle Skiing,False,6,wikipedia_categories_v1
+Ohio,OH,Archery,False,5,wikipedia_categories_v1
+Ohio,OH,Figure Skating,False,4,wikipedia_categories_v1
+Ohio,OH,Diving,False,3,wikipedia_categories_v1
+Ohio,OH,Gymnastics,False,3,wikipedia_categories_v1
+Ohio,OH,Para Athletics,True,3,wikipedia_categories_v1
+Ohio,OH,Alpine Skiing,False,2,wikipedia_categories_v1
+Ohio,OH,Canoe,False,2,wikipedia_categories_v1
+Ohio,OH,Ice Hockey,False,2,wikipedia_categories_v1
+Ohio,OH,Modern Pentathlon,False,2,wikipedia_categories_v1
+Ohio,OH,Para Football,True,2,wikipedia_categories_v1
+Ohio,OH,Para Ice Hockey,True,2,wikipedia_categories_v1
+Ohio,OH,Para Judo,True,2,wikipedia_categories_v1
+Ohio,OH,Para Swimming,True,2,wikipedia_categories_v1
+Ohio,OH,Para Table Tennis,True,2,wikipedia_categories_v1
+Ohio,OH,Rugby Sevens,False,2,wikipedia_categories_v1
+Ohio,OH,Weightlifting,False,2,wikipedia_categories_v1
+Ohio,OH,Baseball,False,1,wikipedia_categories_v1
+Ohio,OH,Basketball,False,1,wikipedia_categories_v1
+Ohio,OH,Bobsleigh,False,1,wikipedia_categories_v1
+Ohio,OH,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Ohio,OH,Curling,False,1,wikipedia_categories_v1
+Ohio,OH,Goalball,True,1,wikipedia_categories_v1
+Ohio,OH,Golf,False,1,wikipedia_categories_v1
+Ohio,OH,Handball,False,1,wikipedia_categories_v1
+Ohio,OH,Judo,False,1,wikipedia_categories_v1
+Ohio,OH,Luge,False,1,wikipedia_categories_v1
+Ohio,OH,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Ohio,OH,Para Canoe,True,1,wikipedia_categories_v1
+Ohio,OH,Para Rowing,True,1,wikipedia_categories_v1
+Ohio,OH,Para Sailing,True,1,wikipedia_categories_v1
+Ohio,OH,Roque,False,1,wikipedia_categories_v1
+Ohio,OH,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Ohio,OH,Snowboarding,False,1,wikipedia_categories_v1
+Ohio,OH,Soccer,False,1,wikipedia_categories_v1
+Ohio,OH,Speed Skating,False,1,wikipedia_categories_v1
+Ohio,OH,Table Tennis,False,1,wikipedia_categories_v1
+Ohio,OH,Volleyball,False,1,wikipedia_categories_v1
+Ohio,OH,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Ohio,OH,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Ohio,OH,Wheelchair Tennis,True,1,wikipedia_categories_v1
+Oklahoma,OK,Wrestling,False,11,wikipedia_categories_v1
+Oklahoma,OK,Athletics,False,10,wikipedia_categories_v1
+Oklahoma,OK,Handball,False,3,wikipedia_categories_v1
+Oklahoma,OK,Para Athletics,True,3,wikipedia_categories_v1
+Oklahoma,OK,Boxing,False,2,wikipedia_categories_v1
+Oklahoma,OK,Figure Skating,False,2,wikipedia_categories_v1
+Oklahoma,OK,Gymnastics,False,2,wikipedia_categories_v1
+Oklahoma,OK,Shooting,False,2,wikipedia_categories_v1
+Oklahoma,OK,Sitting Volleyball,True,2,wikipedia_categories_v1
+Oklahoma,OK,Weightlifting,False,2,wikipedia_categories_v1
+Oklahoma,OK,Artistic Swimming,False,1,wikipedia_categories_v1
+Oklahoma,OK,Baseball,False,1,wikipedia_categories_v1
+Oklahoma,OK,Fencing,False,1,wikipedia_categories_v1
+Oklahoma,OK,Freestyle Skiing,False,1,wikipedia_categories_v1
+Oklahoma,OK,Ice Hockey,False,1,wikipedia_categories_v1
+Oklahoma,OK,Luge,False,1,wikipedia_categories_v1
+Oklahoma,OK,Modern Pentathlon,False,1,wikipedia_categories_v1
+Oklahoma,OK,Para Canoe,True,1,wikipedia_categories_v1
+Oklahoma,OK,Para Powerlifting,True,1,wikipedia_categories_v1
+Oklahoma,OK,Rowing,False,1,wikipedia_categories_v1
+Oklahoma,OK,Soccer,False,1,wikipedia_categories_v1
+Oklahoma,OK,Volleyball,False,1,wikipedia_categories_v1
+Oklahoma,OK,Water Polo,False,1,wikipedia_categories_v1
+Oregon,OR,Athletics,False,23,wikipedia_categories_v1
+Oregon,OR,Rowing,False,6,wikipedia_categories_v1
+Oregon,OR,Swimming,False,6,wikipedia_categories_v1
+Oregon,OR,Alpine Skiing,False,4,wikipedia_categories_v1
+Oregon,OR,Wrestling,False,4,wikipedia_categories_v1
+Oregon,OR,Cross-Country Skiing,False,3,wikipedia_categories_v1
+Oregon,OR,Para Athletics,True,3,wikipedia_categories_v1
+Oregon,OR,Snowboarding,False,3,wikipedia_categories_v1
+Oregon,OR,Baseball,False,2,wikipedia_categories_v1
+Oregon,OR,Fencing,False,2,wikipedia_categories_v1
+Oregon,OR,Freestyle Skiing,False,2,wikipedia_categories_v1
+Oregon,OR,Modern Pentathlon,False,2,wikipedia_categories_v1
+Oregon,OR,Para Cycling,True,2,wikipedia_categories_v1
+Oregon,OR,Shooting,False,2,wikipedia_categories_v1
+Oregon,OR,Weightlifting,False,2,wikipedia_categories_v1
+Oregon,OR,Boxing,False,1,wikipedia_categories_v1
+Oregon,OR,Canoe,False,1,wikipedia_categories_v1
+Oregon,OR,Equestrian,False,1,wikipedia_categories_v1
+Oregon,OR,Figure Skating,False,1,wikipedia_categories_v1
+Oregon,OR,Goalball,True,1,wikipedia_categories_v1
+Oregon,OR,Gymnastics,False,1,wikipedia_categories_v1
+Oregon,OR,Handball,False,1,wikipedia_categories_v1
+Oregon,OR,Luge,False,1,wikipedia_categories_v1
+Oregon,OR,Nordic Combined,False,1,wikipedia_categories_v1
+Oregon,OR,Para Ice Hockey,True,1,wikipedia_categories_v1
+Oregon,OR,Sitting Volleyball,True,1,wikipedia_categories_v1
+Oregon,OR,Table Tennis,False,1,wikipedia_categories_v1
+Oregon,OR,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Pennsylvania,PA,Rowing,False,41,wikipedia_categories_v1
+Pennsylvania,PA,Athletics,False,39,wikipedia_categories_v1
+Pennsylvania,PA,Field Hockey,False,25,wikipedia_categories_v1
+Pennsylvania,PA,Soccer,False,23,wikipedia_categories_v1
+Pennsylvania,PA,Swimming,False,17,wikipedia_categories_v1
+Pennsylvania,PA,Fencing,False,14,wikipedia_categories_v1
+Pennsylvania,PA,Gymnastics,False,14,wikipedia_categories_v1
+Pennsylvania,PA,Figure Skating,False,9,wikipedia_categories_v1
+Pennsylvania,PA,Shooting,False,8,wikipedia_categories_v1
+Pennsylvania,PA,Weightlifting,False,8,wikipedia_categories_v1
+Pennsylvania,PA,Wrestling,False,7,wikipedia_categories_v1
+Pennsylvania,PA,Boxing,False,6,wikipedia_categories_v1
+Pennsylvania,PA,Para Swimming,True,6,wikipedia_categories_v1
+Pennsylvania,PA,Sailing,False,6,wikipedia_categories_v1
+Pennsylvania,PA,Cycling,False,5,wikipedia_categories_v1
+Pennsylvania,PA,Diving,False,5,wikipedia_categories_v1
+Pennsylvania,PA,Para Athletics,True,5,wikipedia_categories_v1
+Pennsylvania,PA,Baseball,False,4,wikipedia_categories_v1
+Pennsylvania,PA,Bobsleigh,False,4,wikipedia_categories_v1
+Pennsylvania,PA,Ice Hockey,False,4,wikipedia_categories_v1
+Pennsylvania,PA,Wheelchair Basketball,True,4,wikipedia_categories_v1
+Pennsylvania,PA,Equestrian,False,3,wikipedia_categories_v1
+Pennsylvania,PA,Handball,False,3,wikipedia_categories_v1
+Pennsylvania,PA,Luge,False,3,wikipedia_categories_v1
+Pennsylvania,PA,Modern Pentathlon,False,3,wikipedia_categories_v1
+Pennsylvania,PA,Para Ice Hockey,True,3,wikipedia_categories_v1
+Pennsylvania,PA,Tennis,False,3,wikipedia_categories_v1
+Pennsylvania,PA,Canoe,False,2,wikipedia_categories_v1
+Pennsylvania,PA,Para Alpine Skiing,True,2,wikipedia_categories_v1
+Pennsylvania,PA,Para Archery,True,2,wikipedia_categories_v1
+Pennsylvania,PA,Para Cycling,True,2,wikipedia_categories_v1
+Pennsylvania,PA,Volleyball,False,2,wikipedia_categories_v1
+Pennsylvania,PA,Alpine Skiing,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Archery,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Biathlon,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Curling,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Freestyle Skiing,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Golf,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Judo,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Para Snowboarding,True,1,wikipedia_categories_v1
+Pennsylvania,PA,Para Table Tennis,True,1,wikipedia_categories_v1
+Pennsylvania,PA,Para Triathlon,True,1,wikipedia_categories_v1
+Pennsylvania,PA,Polo,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Rugby Sevens,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Skeleton,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Triathlon,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Water Polo,False,1,wikipedia_categories_v1
+Pennsylvania,PA,Wheelchair Rugby,True,1,wikipedia_categories_v1
+Pennsylvania,PA,Wheelchair racer,False,1,wikipedia_categories_v1
+Puerto Rico,PR,Boxing,False,2,wikipedia_categories_v1
+Puerto Rico,PR,Baseball,False,1,wikipedia_categories_v1
+Puerto Rico,PR,Diving,False,1,wikipedia_categories_v1
+Puerto Rico,PR,Freestyle Skiing,False,1,wikipedia_categories_v1
+Puerto Rico,PR,Rowing,False,1,wikipedia_categories_v1
+Puerto Rico,PR,Swimming,False,1,wikipedia_categories_v1
+Rhode Island,RI,Ice Hockey,False,8,wikipedia_categories_v1
+Rhode Island,RI,Athletics,False,7,wikipedia_categories_v1
+Rhode Island,RI,Swimming,False,4,wikipedia_categories_v1
+Rhode Island,RI,Boxing,False,2,wikipedia_categories_v1
+Rhode Island,RI,Rowing,False,2,wikipedia_categories_v1
+Rhode Island,RI,Biathlon,False,1,wikipedia_categories_v1
+Rhode Island,RI,Cross-Country Skiing,False,1,wikipedia_categories_v1
+Rhode Island,RI,Figure Skating,False,1,wikipedia_categories_v1
+Rhode Island,RI,Judo,False,1,wikipedia_categories_v1
+Rhode Island,RI,Para Swimming,True,1,wikipedia_categories_v1
+Rhode Island,RI,Shooting,False,1,wikipedia_categories_v1
+Rhode Island,RI,Soccer,False,1,wikipedia_categories_v1
+Rhode Island,RI,Tennis,False,1,wikipedia_categories_v1
+South Carolina,SC,Athletics,False,9,wikipedia_categories_v1
+South Carolina,SC,Para Athletics,True,3,wikipedia_categories_v1
+South Carolina,SC,Shooting,False,2,wikipedia_categories_v1
+South Carolina,SC,Boxing,False,1,wikipedia_categories_v1
+South Carolina,SC,Diving,False,1,wikipedia_categories_v1
+South Carolina,SC,Equestrian,False,1,wikipedia_categories_v1
+South Carolina,SC,Gymnastics,False,1,wikipedia_categories_v1
+South Carolina,SC,Handball,False,1,wikipedia_categories_v1
+South Carolina,SC,Modern Pentathlon,False,1,wikipedia_categories_v1
+South Carolina,SC,Polo,False,1,wikipedia_categories_v1
+South Carolina,SC,Rowing,False,1,wikipedia_categories_v1
+South Carolina,SC,Sailing,False,1,wikipedia_categories_v1
+South Carolina,SC,Weightlifting,False,1,wikipedia_categories_v1
+South Carolina,SC,Wheelchair Curling,True,1,wikipedia_categories_v1
+South Carolina,SC,Wrestling,False,1,wikipedia_categories_v1
+South Dakota,SD,Athletics,False,5,wikipedia_categories_v1
+South Dakota,SD,Shooting,False,2,wikipedia_categories_v1
+South Dakota,SD,Wrestling,False,2,wikipedia_categories_v1
+South Dakota,SD,Baseball,False,1,wikipedia_categories_v1
+South Dakota,SD,Beach Volleyball,False,1,wikipedia_categories_v1
+South Dakota,SD,Rowing,False,1,wikipedia_categories_v1
+Tennessee,TN,Athletics,False,11,wikipedia_categories_v1
+Tennessee,TN,Shooting,False,3,wikipedia_categories_v1
+Tennessee,TN,Swimming,False,3,wikipedia_categories_v1
+Tennessee,TN,Gymnastics,False,2,wikipedia_categories_v1
+Tennessee,TN,Tennis,False,2,wikipedia_categories_v1
+Tennessee,TN,Weightlifting,False,2,wikipedia_categories_v1
+Tennessee,TN,Boxing,False,1,wikipedia_categories_v1
+Tennessee,TN,Breaking,False,1,wikipedia_categories_v1
+Tennessee,TN,Diving,False,1,wikipedia_categories_v1
+Tennessee,TN,Equestrian,False,1,wikipedia_categories_v1
+Tennessee,TN,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Tennessee,TN,Para Athletics,True,1,wikipedia_categories_v1
+Tennessee,TN,Para Football,True,1,wikipedia_categories_v1
+Tennessee,TN,Sailing,False,1,wikipedia_categories_v1
+Tennessee,TN,Speed Skating,False,1,wikipedia_categories_v1
+Tennessee,TN,Volleyball,False,1,wikipedia_categories_v1
+Texas,TX,Athletics,False,61,wikipedia_categories_v1
+Texas,TX,Shooting,False,14,wikipedia_categories_v1
+Texas,TX,Boxing,False,11,wikipedia_categories_v1
+Texas,TX,Gymnastics,False,7,wikipedia_categories_v1
+Texas,TX,Swimming,False,7,wikipedia_categories_v1
+Texas,TX,Figure Skating,False,5,wikipedia_categories_v1
+Texas,TX,Cycling,False,4,wikipedia_categories_v1
+Texas,TX,Diving,False,4,wikipedia_categories_v1
+Texas,TX,Para Athletics,True,4,wikipedia_categories_v1
+Texas,TX,Rowing,False,4,wikipedia_categories_v1
+Texas,TX,Sitting Volleyball,True,4,wikipedia_categories_v1
+Texas,TX,Weightlifting,False,4,wikipedia_categories_v1
+Texas,TX,Baseball,False,3,wikipedia_categories_v1
+Texas,TX,Fencing,False,3,wikipedia_categories_v1
+Texas,TX,Handball,False,3,wikipedia_categories_v1
+Texas,TX,Judo,False,3,wikipedia_categories_v1
+Texas,TX,Rugby Sevens,False,3,wikipedia_categories_v1
+Texas,TX,Softball,False,3,wikipedia_categories_v1
+Texas,TX,Water Polo,False,3,wikipedia_categories_v1
+Texas,TX,Wheelchair Basketball,True,3,wikipedia_categories_v1
+Texas,TX,Wheelchair Tennis,True,3,wikipedia_categories_v1
+Texas,TX,Bobsleigh,False,2,wikipedia_categories_v1
+Texas,TX,Equestrian,False,2,wikipedia_categories_v1
+Texas,TX,Para Archery,True,2,wikipedia_categories_v1
+Texas,TX,Para Cycling,True,2,wikipedia_categories_v1
+Texas,TX,Para Equestrian,True,2,wikipedia_categories_v1
+Texas,TX,Para Ice Hockey,True,2,wikipedia_categories_v1
+Texas,TX,Para Judo,True,2,wikipedia_categories_v1
+Texas,TX,Para Swimming,True,2,wikipedia_categories_v1
+Texas,TX,Soccer,False,2,wikipedia_categories_v1
+Texas,TX,Wrestling,False,2,wikipedia_categories_v1
+Texas,TX,Archery,False,1,wikipedia_categories_v1
+Texas,TX,Breaking,False,1,wikipedia_categories_v1
+Texas,TX,Field Hockey,False,1,wikipedia_categories_v1
+Texas,TX,Golf,False,1,wikipedia_categories_v1
+Texas,TX,Karate,False,1,wikipedia_categories_v1
+Texas,TX,Luge,False,1,wikipedia_categories_v1
+Texas,TX,Modern Pentathlon,False,1,wikipedia_categories_v1
+Texas,TX,Nordic Combined,False,1,wikipedia_categories_v1
+Texas,TX,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Texas,TX,Polo,False,1,wikipedia_categories_v1
+Texas,TX,Rugby Union,False,1,wikipedia_categories_v1
+Texas,TX,Sailing,False,1,wikipedia_categories_v1
+Texas,TX,Speed Skating,False,1,wikipedia_categories_v1
+Texas,TX,Sport Climbing,False,1,wikipedia_categories_v1
+Texas,TX,Table Tennis,False,1,wikipedia_categories_v1
+Texas,TX,Taekwondo,False,1,wikipedia_categories_v1
+Texas,TX,Tennis,False,1,wikipedia_categories_v1
+Texas,TX,Triathlon,False,1,wikipedia_categories_v1
+Texas,TX,Volleyball,False,1,wikipedia_categories_v1
+Texas,TX,Wheelchair Curling,True,1,wikipedia_categories_v1
+Texas,TX,Wheelchair Fencing,True,1,wikipedia_categories_v1
+U.S. Virgin Islands,VI,Boxing,False,3,wikipedia_categories_v1
+U.S. Virgin Islands,VI,Sailing,False,2,wikipedia_categories_v1
+Utah,UT,Athletics,False,13,wikipedia_categories_v1
+Utah,UT,Alpine Skiing,False,7,wikipedia_categories_v1
+Utah,UT,Ski Jumping,False,6,wikipedia_categories_v1
+Utah,UT,Freestyle Skiing,False,5,wikipedia_categories_v1
+Utah,UT,Cross-Country Skiing,False,4,wikipedia_categories_v1
+Utah,UT,Cycling,False,3,wikipedia_categories_v1
+Utah,UT,Luge,False,3,wikipedia_categories_v1
+Utah,UT,Rowing,False,3,wikipedia_categories_v1
+Utah,UT,Water Polo,False,3,wikipedia_categories_v1
+Utah,UT,Bobsleigh,False,2,wikipedia_categories_v1
+Utah,UT,Diving,False,2,wikipedia_categories_v1
+Utah,UT,Beach Volleyball,False,1,wikipedia_categories_v1
+Utah,UT,Biathlon,False,1,wikipedia_categories_v1
+Utah,UT,Boxing,False,1,wikipedia_categories_v1
+Utah,UT,Figure Skating,False,1,wikipedia_categories_v1
+Utah,UT,Gymnastics,False,1,wikipedia_categories_v1
+Utah,UT,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Utah,UT,Para Archery,True,1,wikipedia_categories_v1
+Utah,UT,Para Athletics,True,1,wikipedia_categories_v1
+Utah,UT,Shooting,False,1,wikipedia_categories_v1
+Utah,UT,Skeleton,False,1,wikipedia_categories_v1
+Utah,UT,Snowboarding,False,1,wikipedia_categories_v1
+Utah,UT,Soccer,False,1,wikipedia_categories_v1
+Utah,UT,Sport Climbing,False,1,wikipedia_categories_v1
+Utah,UT,Wheelchair Basketball,True,1,wikipedia_categories_v1
+Vermont,VT,Cross-Country Skiing,False,18,wikipedia_categories_v1
+Vermont,VT,Biathlon,False,6,wikipedia_categories_v1
+Vermont,VT,Alpine Skiing,False,5,wikipedia_categories_v1
+Vermont,VT,Athletics,False,5,wikipedia_categories_v1
+Vermont,VT,Rowing,False,3,wikipedia_categories_v1
+Vermont,VT,Nordic Combined,False,2,wikipedia_categories_v1
+Vermont,VT,Ski Jumping,False,2,wikipedia_categories_v1
+Vermont,VT,Canoe,False,1,wikipedia_categories_v1
+Vermont,VT,Freestyle Skiing,False,1,wikipedia_categories_v1
+Vermont,VT,Para Cycling,True,1,wikipedia_categories_v1
+Vermont,VT,Snowboarding,False,1,wikipedia_categories_v1
+Vermont,VT,Weightlifting,False,1,wikipedia_categories_v1
+Virginia,VA,Athletics,False,13,wikipedia_categories_v1
+Virginia,VA,Ice Hockey,False,5,wikipedia_categories_v1
+Virginia,VA,Field Hockey,False,4,wikipedia_categories_v1
+Virginia,VA,Para Athletics,True,4,wikipedia_categories_v1
+Virginia,VA,Rowing,False,4,wikipedia_categories_v1
+Virginia,VA,Swimming,False,4,wikipedia_categories_v1
+Virginia,VA,Boxing,False,3,wikipedia_categories_v1
+Virginia,VA,Fencing,False,3,wikipedia_categories_v1
+Virginia,VA,Para Swimming,True,3,wikipedia_categories_v1
+Virginia,VA,Shooting,False,3,wikipedia_categories_v1
+Virginia,VA,Soccer,False,3,wikipedia_categories_v1
+Virginia,VA,Modern Pentathlon,False,2,wikipedia_categories_v1
+Virginia,VA,Sailing,False,2,wikipedia_categories_v1
+Virginia,VA,Weightlifting,False,2,wikipedia_categories_v1
+Virginia,VA,Wrestling,False,2,wikipedia_categories_v1
+Virginia,VA,Alpine Skiing,False,1,wikipedia_categories_v1
+Virginia,VA,Baseball,False,1,wikipedia_categories_v1
+Virginia,VA,Canoe,False,1,wikipedia_categories_v1
+Virginia,VA,Curling,False,1,wikipedia_categories_v1
+Virginia,VA,Cycling,False,1,wikipedia_categories_v1
+Virginia,VA,Equestrian,False,1,wikipedia_categories_v1
+Virginia,VA,Figure Skating,False,1,wikipedia_categories_v1
+Virginia,VA,Judo,False,1,wikipedia_categories_v1
+Virginia,VA,Para Alpine Skiing,True,1,wikipedia_categories_v1
+Virginia,VA,Para Football,True,1,wikipedia_categories_v1
+Virginia,VA,Para Ice Hockey,True,1,wikipedia_categories_v1
+Virginia,VA,Rugby Sevens,False,1,wikipedia_categories_v1
+Virginia,VA,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Virginia,VA,Speed Skating,False,1,wikipedia_categories_v1
+Washington,WA,Rowing,False,37,wikipedia_categories_v1
+Washington,WA,Athletics,False,32,wikipedia_categories_v1
+Washington,WA,Shooting,False,14,wikipedia_categories_v1
+Washington,WA,Swimming,False,9,wikipedia_categories_v1
+Washington,WA,Boxing,False,8,wikipedia_categories_v1
+Washington,WA,Figure Skating,False,7,wikipedia_categories_v1
+Washington,WA,Soccer,False,6,wikipedia_categories_v1
+Washington,WA,Cycling,False,5,wikipedia_categories_v1
+Washington,WA,Sailing,False,5,wikipedia_categories_v1
+Washington,WA,Alpine Skiing,False,4,wikipedia_categories_v1
+Washington,WA,Cross-Country Skiing,False,4,wikipedia_categories_v1
+Washington,WA,Modern Pentathlon,False,4,wikipedia_categories_v1
+Washington,WA,Biathlon,False,3,wikipedia_categories_v1
+Washington,WA,Canoe,False,3,wikipedia_categories_v1
+Washington,WA,Fencing,False,3,wikipedia_categories_v1
+Washington,WA,Handball,False,3,wikipedia_categories_v1
+Washington,WA,Speed Skating,False,3,wikipedia_categories_v1
+Washington,WA,Wheelchair Basketball,True,3,wikipedia_categories_v1
+Washington,WA,Wrestling,False,3,wikipedia_categories_v1
+Washington,WA,Artistic Swimming,False,2,wikipedia_categories_v1
+Washington,WA,Diving,False,2,wikipedia_categories_v1
+Washington,WA,Freestyle Skiing,False,2,wikipedia_categories_v1
+Washington,WA,Gymnastics,False,2,wikipedia_categories_v1
+Washington,WA,Judo,False,2,wikipedia_categories_v1
+Washington,WA,Luge,False,2,wikipedia_categories_v1
+Washington,WA,Para Shooting,True,2,wikipedia_categories_v1
+Washington,WA,Para Swimming,True,2,wikipedia_categories_v1
+Washington,WA,Wheelchair Rugby,True,2,wikipedia_categories_v1
+Washington,WA,Archery,False,1,wikipedia_categories_v1
+Washington,WA,Baseball,False,1,wikipedia_categories_v1
+Washington,WA,Bobsleigh,False,1,wikipedia_categories_v1
+Washington,WA,Curling,False,1,wikipedia_categories_v1
+Washington,WA,Equestrian,False,1,wikipedia_categories_v1
+Washington,WA,Ice Hockey,False,1,wikipedia_categories_v1
+Washington,WA,Para Athletics,True,1,wikipedia_categories_v1
+Washington,WA,Para Equestrian,True,1,wikipedia_categories_v1
+Washington,WA,Rugby Sevens,False,1,wikipedia_categories_v1
+Washington,WA,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Washington,WA,Sitting Volleyball,True,1,wikipedia_categories_v1
+Washington,WA,Snowboarding,False,1,wikipedia_categories_v1
+Washington,WA,Tennis,False,1,wikipedia_categories_v1
+Washington,WA,Triathlon,False,1,wikipedia_categories_v1
+Washington,WA,Weightlifting,False,1,wikipedia_categories_v1
+West Virginia,WV,Shooting,False,2,wikipedia_categories_v1
+West Virginia,WV,Archery,False,1,wikipedia_categories_v1
+West Virginia,WV,Equestrian,False,1,wikipedia_categories_v1
+West Virginia,WV,Gymnastics,False,1,wikipedia_categories_v1
+West Virginia,WV,Handball,False,1,wikipedia_categories_v1
+West Virginia,WV,Para Football,True,1,wikipedia_categories_v1
+West Virginia,WV,Skeleton,False,1,wikipedia_categories_v1
+West Virginia,WV,Swimming,False,1,wikipedia_categories_v1
+Wisconsin,WI,Speed Skating,False,17,wikipedia_categories_v1
+Wisconsin,WI,Curling,False,14,wikipedia_categories_v1
+Wisconsin,WI,Rowing,False,13,wikipedia_categories_v1
+Wisconsin,WI,Athletics,False,12,wikipedia_categories_v1
+Wisconsin,WI,Cycling,False,9,wikipedia_categories_v1
+Wisconsin,WI,Gymnastics,False,8,wikipedia_categories_v1
+Wisconsin,WI,Wheelchair Basketball,True,7,wikipedia_categories_v1
+Wisconsin,WI,Handball,False,6,wikipedia_categories_v1
+Wisconsin,WI,Wrestling,False,6,wikipedia_categories_v1
+Wisconsin,WI,Cross-Country Skiing,False,5,wikipedia_categories_v1
+Wisconsin,WI,Shooting,False,5,wikipedia_categories_v1
+Wisconsin,WI,Biathlon,False,3,wikipedia_categories_v1
+Wisconsin,WI,Ice Hockey,False,3,wikipedia_categories_v1
+Wisconsin,WI,Nordic Combined,False,3,wikipedia_categories_v1
+Wisconsin,WI,Sailing,False,3,wikipedia_categories_v1
+Wisconsin,WI,Ski Jumping,False,3,wikipedia_categories_v1
+Wisconsin,WI,Alpine Skiing,False,2,wikipedia_categories_v1
+Wisconsin,WI,Para Ice Hockey,True,2,wikipedia_categories_v1
+Wisconsin,WI,Swimming,False,2,wikipedia_categories_v1
+Wisconsin,WI,Volleyball,False,2,wikipedia_categories_v1
+Wisconsin,WI,Wheelchair Curling,True,2,wikipedia_categories_v1
+Wisconsin,WI,Wheelchair Tennis,True,2,wikipedia_categories_v1
+Wisconsin,WI,Beach Volleyball,False,1,wikipedia_categories_v1
+Wisconsin,WI,Bobsleigh,False,1,wikipedia_categories_v1
+Wisconsin,WI,Fencing,False,1,wikipedia_categories_v1
+Wisconsin,WI,Freestyle Skiing,False,1,wikipedia_categories_v1
+Wisconsin,WI,Golf,False,1,wikipedia_categories_v1
+Wisconsin,WI,Judo,False,1,wikipedia_categories_v1
+Wisconsin,WI,Luge,False,1,wikipedia_categories_v1
+Wisconsin,WI,Modern Pentathlon,False,1,wikipedia_categories_v1
+Wisconsin,WI,Para Archery,True,1,wikipedia_categories_v1
+Wisconsin,WI,Para Athletics,True,1,wikipedia_categories_v1
+Wisconsin,WI,Para Canoe,True,1,wikipedia_categories_v1
+Wisconsin,WI,Para Swimming,True,1,wikipedia_categories_v1
+Wisconsin,WI,Para Triathlon,True,1,wikipedia_categories_v1
+Wisconsin,WI,Short Track Speed Skating,False,1,wikipedia_categories_v1
+Wisconsin,WI,Sitting Volleyball,True,1,wikipedia_categories_v1
+Wisconsin,WI,Snowboarding,False,1,wikipedia_categories_v1
+Wisconsin,WI,Soccer,False,1,wikipedia_categories_v1
+Wisconsin,WI,Tennis,False,1,wikipedia_categories_v1
+Wisconsin,WI,Triathlon,False,1,wikipedia_categories_v1
+Wisconsin,WI,Weightlifting,False,1,wikipedia_categories_v1
+Wyoming,WY,Alpine Skiing,False,4,wikipedia_categories_v1
+Wyoming,WY,Biathlon,False,2,wikipedia_categories_v1
+Wyoming,WY,Rowing,False,2,wikipedia_categories_v1
+Wyoming,WY,Athletics,False,1,wikipedia_categories_v1
+Wyoming,WY,Para Shooting,True,1,wikipedia_categories_v1
+Wyoming,WY,Ski Mountaineering,False,1,wikipedia_categories_v1
+Wyoming,WY,Wrestling,False,1,wikipedia_categories_v1

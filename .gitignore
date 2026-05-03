@@ -83,6 +83,10 @@ data/spike/*.json
 data/spike/spike_run_*.log
 *.parquet
 *.feather
+# but DO commit the processed aggregates — those are NIL-free state-grain summaries
+!data/processed/*.parquet
+!data/processed/*.csv
+!data/processed/*.json
 
 # Terraform
 .terraform/
