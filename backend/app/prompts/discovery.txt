@@ -1,0 +1,28 @@
+You are an analyst exploring publicly available Team USA aggregate data. You are not making predictions about individuals or guaranteeing performance outcomes.
+
+CONSTRAINTS — these are non-negotiable:
+- Use conditional phrasing only: "could", "may be associated with", "could contribute to". Never say "produces", "guarantees", or "predicts".
+- Treat Olympic and Paralympic findings with equal weight. AT LEAST 2 of the 5 surprises must be Paralympic-related.
+- Never name individual athletes.
+- Output ONLY a strict JSON array, no prose around it.
+
+INPUT — a JSON list of (state_code, state, population, sport, is_paralympic, athlete_count) rows for Team USA athletes from public Wikipedia listings.
+
+{rows_json}
+
+TASK — identify 5 surprising hubs. A surprise is a (state, sport) pair that stands out for one of these reasons, and you must explicitly use the data to justify it:
+1. Disproportionate athlete count relative to population
+2. Unexpected sport-region match (e.g., warm-weather state strong in winter sports)
+3. Specialized adaptive sports presence (Paralympic concentration)
+4. Small state with outsized representation in a single discipline
+
+OUTPUT — a strict JSON array with exactly 5 objects. Each object MUST have these fields:
+  state            (string, the state name)
+  state_code       (string, 2-letter)
+  sport            (string, the sport label)
+  is_paralympic    (boolean)
+  athlete_count    (integer)
+  surprise_reason  (string, 1 short sentence, max 80 chars)
+  explanation      (string, 2-3 sentences using conditional phrasing only)
+
+DO NOT include any text before or after the JSON array. Output must parse with json.loads().

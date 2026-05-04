@@ -1,0 +1,55 @@
+{
+  "discoveries": [
+    {
+      "state": "Vermont",
+      "state_code": "VT",
+      "sport": "Cross-Country Skiing",
+      "is_paralympic": false,
+      "athlete_count": 18,
+      "surprise_reason": "This small state has an outsized representation in a single winter sport.",
+      "explanation": "With one of the smallest populations in the nation, Vermont's significant number of athletes in Cross-Country Skiing is notable. This concentration could be associated with the state's strong winter sports culture and access to training facilities. The environment may be particularly conducive to developing talent in this specific discipline."
+    },
+    {
+      "state": "Minnesota",
+      "state_code": "MN",
+      "sport": "Ice Hockey",
+      "is_paralympic": false,
+      "athlete_count": 73,
+      "surprise_reason": "The state shows a remarkable concentration of talent in Ice Hockey.",
+      "explanation": "Minnesota's athlete count in Ice Hockey is exceptionally high, surpassing many states with much larger populations. This deep specialization could be linked to the state's robust local hockey infrastructure, from youth leagues to collegiate programs. The cultural importance of the sport in the region may be a contributing factor to this trend."
+    },
+    {
+      "state": "Wisconsin",
+      "state_code": "WI",
+      "sport": "Wheelchair Basketball",
+      "is_paralympic": true,
+      "athlete_count": 7,
+      "surprise_reason": "The state has a notable concentration of Paralympic athletes in this sport.",
+      "explanation": "Wisconsin's representation in Wheelchair Basketball is one of the highest in the country for this specific Paralympic sport. The presence of established university-level adaptive sports programs could contribute to this trend. Such specialized infrastructure may be associated with creating a pathway for elite athlete development in the region."
+    },
+    {
+      "state": "Michigan",
+      "state_code": "MI",
+      "sport": "Goalball",
+      "is_paralympic": true,
+      "athlete_count": 5,
+      "surprise_reason": "Michigan is a surprising hub for the Paralympic sport of Goalball.",
+      "explanation": "Michigan accounts for a significant portion of the nation's Goalball athletes in this dataset. The presence of specialized training centers for athletes with visual impairments, such as those at Western Michigan University, could be associated with this concentration. This focused support system may contribute to the state's role as a key development area for the sport."
+    },
+    {
+      "state": "Pennsylvania",
+      "state_code": "PA",
+      "sport": "Field Hockey",
+      "is_paralympic": false,
+      "athlete_count": 35,
+      "surprise_reason": "Pennsylvania has a disproportionately high number of Field Hockey athletes.",
+      "explanation": "Pennsylvania's athlete count in Field Hockey is exceptionally high, rivaling counts in more populous states for much larger sports. This regional strength could be associated with a deeply rooted scholastic and club system for the sport. This long-standing culture may contribute to a consistent development of high-level competitors from the area."
+    }
+  ],
+  "validation": {
+    "passed": true,
+    "issues": []
+  },
+  "model": "gemini-2.5-pro",
+  "input_row_count": 845
+}

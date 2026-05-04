@@ -7,7 +7,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import settings
-from app.routes import regions
+from app.routes import agent, hubs, regions
 
 logging.basicConfig(level=settings.log_level, format="%(asctime)s %(levelname)s %(name)s %(message)s")
 log = logging.getLogger(__name__)
@@ -41,6 +41,8 @@ def create_app() -> FastAPI:
         return {"status": "ok"}
 
     app.include_router(regions.router)
+    app.include_router(hubs.router)
+    app.include_router(agent.router)
     return app
 
 
