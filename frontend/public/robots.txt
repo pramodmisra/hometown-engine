@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hometown-engine-web-865200026782.us-central1.run.app/sitemap.xml
