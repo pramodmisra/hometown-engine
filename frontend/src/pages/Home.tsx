@@ -85,7 +85,9 @@ export default function Home() {
             <USMap states={states} metric={metric} />
           </div>
         ) : (
-          <p className="text-sm text-ink-500 animate-pulse">Loading map...</p>
+          <div className="rounded-2xl border border-ink-200 bg-white p-3 h-[550px] flex items-center justify-center">
+            <div className="animate-pulse w-full h-full bg-ink-50 rounded-xl" />
+          </div>
         )}
       </section>
 
@@ -96,6 +98,33 @@ export default function Home() {
           may be associated with unexpected local conditions. At least two are Paralympic-focused.
         </p>
         <DiscoveryGrid />
+      </section>
+
+      <section className="space-y-3 rounded-2xl border border-ink-200 bg-white p-6">
+        <h2 className="font-display text-xl font-semibold">How it works</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-ink-500">
+          <div>
+            <p className="font-medium text-ink-900 mb-1">1. Aggregate data, not names</p>
+            <p>
+              Athlete counts come from public Wikipedia listings of US Olympians and Paralympians. We never store or
+              display individual athlete names — every output is a state-level aggregate by sport.
+            </p>
+          </div>
+          <div>
+            <p className="font-medium text-ink-900 mb-1">2. Climate + geography join</p>
+            <p>
+              We join 30-year NOAA climate normals (1990-2019) and US Census state geometry from BigQuery public
+              datasets, all in one place.
+            </p>
+          </div>
+          <div>
+            <p className="font-medium text-ink-900 mb-1">3. Gemini explains the why</p>
+            <p>
+              Gemini 2.5 reads the structured context for a region and writes a 3-paragraph narrative using
+              conditional phrasing only — never claiming geography <em>causes</em> athletic outcomes.
+            </p>
+          </div>
+        </div>
       </section>
     </div>
   );

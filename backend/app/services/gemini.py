@@ -24,6 +24,15 @@ DISALLOWED_PATTERNS: list[re.Pattern] = [
     re.compile(r"\bpast Paralympian\b", re.IGNORECASE),
 ]
 
+# Refusal/negation indicators that suggest the disallowed term is being quoted to refuse,
+# not asserted. e.g. "I cannot predict ..." or "I will not refer to former Olympians ...".
+_NEGATION_WINDOW_RX = re.compile(
+    r"\b(?:cannot|can not|can't|cant|won't|will not|do not|don't|does not|doesn't|"
+    r"not\s+able|unable|refuse|never|no\s+predictions?|avoid|without|"
+    r"my purpose|aggregate[- ]only|outside\s+my\s+scope)\b",
+    re.IGNORECASE,
+)
+
 
 @lru_cache(maxsize=1)
 def get_client() -> genai.Client:
@@ -34,11 +43,27 @@ def _load_prompt(name: str) -> str:
     return (PROMPT_DIR / name).read_text(encoding="utf-8")
 
 
+def _is_in_refusal_context(text: str, match_start: int, window: int = 120) -> bool:
+    """True if the matched term lies within a negation/refusal window. We look at
+    the preceding `window` characters of the same sentence — if a negation marker
+    is present, treat the term as quoted-for-refusal, not asserted."""
+    sentence_start = max(0, match_start - window)
+    chunk = text[sentence_start:match_start + 1]
+    last_period = chunk.rfind(".")
+    last_qmark = chunk.rfind("?")
+    last_excl = chunk.rfind("!")
+    boundary = max(last_period, last_qmark, last_excl)
+    if boundary >= 0:
+        chunk = chunk[boundary + 1:]
+    return bool(_NEGATION_WINDOW_RX.search(chunk))
+
+
 def _check_compliance(text: str) -> tuple[bool, list[str]]:
-    violations = []
+    violations: list[str] = []
     for pattern in DISALLOWED_PATTERNS:
-        m = pattern.search(text)
-        if m:
+        for m in pattern.finditer(text):
+            if _is_in_refusal_context(text, m.start()):
+                continue
             violations.append(f"matched: {m.group(0)}")
     return (len(violations) == 0, violations)
 
